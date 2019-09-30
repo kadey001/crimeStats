@@ -30,7 +30,7 @@ def get_city(city):
 	sql = "SELECT * FROM hate_crimes WHERE agencyType = 'Cities' AND agencyName = %s;"
 	mycursor.execute(sql, (city))
 	r = [dict((mycursor.description[i][0], value)
-						for i, value in enumerate(row)) for row in mycursor.fetchall()]
+		for i, value in enumerate(row)) for row in mycursor.fetchall()]
 	return jsonify(r)
 
 #Get all results of a state
