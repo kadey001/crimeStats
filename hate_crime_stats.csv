@@ -1,0 +1,2298 @@
+state,agencyType,agencyName,race,religion,sexOrientation,disability,gender,genderIdentity,population
+Alabama,Total,,8,1,0,0,0,0,0
+Alabama,Cities,,7,1,0,0,0,0,0
+Alabama,Cities,Hoover,5,1,0,0,0,0,85634
+Alabama,Cities,Ozark,2,0,0,0,0,0,14559
+Alabama,Universities and Colleges,,1,0,0,0,0,0,0
+Alabama,Universities and Colleges,Jacksonville State University,1,0,0,0,0,0,8514
+Alaska,Total,,3,1,0,0,0,0,0
+Alaska,Cities,,3,0,0,0,0,0,0
+Alaska,Cities,Anchorage,1,0,0,0,0,0,296188
+Alaska,Cities,Juneau,2,0,0,0,0,0,32344
+Alaska,State Police Agencies,,0,1,0,0,0,0,0
+Alaska,State Police Agencies,Alaska State Troopers,0,1,0,0,0,0,0
+Arizona,Total,,168,48,55,5,0,12,0
+Arizona,Cities,,160,47,52,5,0,12,0
+Arizona,Cities,Avondale,0,0,1,0,0,0,84041
+Arizona,Cities,Chandler,1,0,0,0,0,0,249355
+Arizona,Cities,Cottonwood,1,0,0,0,0,0,12116
+Arizona,Cities,El Mirage,1,0,0,0,0,0,35611
+Arizona,Cities,Gilbert,2,1,0,0,0,0,242090
+Arizona,Cities,Glendale,3,2,0,0,0,0,249273
+Arizona,Cities,Mesa,4,1,0,0,0,0,492268
+Arizona,Cities,Page,1,0,0,0,0,0,7632
+Arizona,Cities,Phoenix2,142,41,44,4,0,12,1644177
+Arizona,Cities,Scottsdale,2,1,1,0,0,0,251840
+Arizona,Cities,St. Johns,2,0,0,0,0,0,3581
+Arizona,Cities,Tucson,0,1,3,1,0,0,532323
+Arizona,Cities,Wickenburg,0,0,1,0,0,0,6979
+Arizona,Cities,Yuma,1,0,2,0,0,0,95522
+Arizona,Universities and Colleges,,1,1,1,0,0,0,0
+Arizona,Universities and Colleges,University of Arizona,1,1,1,0,0,0,43161
+Arizona,Metropolitan Counties,,5,0,2,0,0,0,0
+Arizona,Metropolitan Counties,Maricopa,1,0,2,0,0,0,0
+Arizona,Metropolitan Counties,Mohave,1,0,0,0,0,0,0
+Arizona,Metropolitan Counties,Pima,2,0,0,0,0,0,0
+Arizona,Metropolitan Counties,Yuma,1,0,0,0,0,0,0
+Arizona,Nonmetropolitan Counties,,2,0,0,0,0,0,0
+Arizona,Nonmetropolitan Counties,Apache,2,0,0,0,0,0,0
+Arkansas,Total,,5,0,1,1,0,0,0
+Arkansas,Cities,,5,0,1,0,0,0,0
+Arkansas,Cities,Benton,1,0,0,0,0,0,36702
+Arkansas,Cities,Fayetteville,0,0,1,0,0,0,85592
+Arkansas,Cities,Fort Smith,4,0,0,0,0,0,88437
+Arkansas,Nonmetropolitan Counties,,0,0,0,1,0,0,0
+Arkansas,Nonmetropolitan Counties,Boone,0,0,0,1,0,0,0
+California,Total,,603,207,248,4,4,29,0
+California,Cities,,524,187,217,4,4,26,0
+California,Cities,Adelanto,1,0,1,0,0,0,33693
+California,Cities,Alameda,6,1,2,1,0,0,79761
+California,Cities,Albany2,1,0,2,0,0,0,19880
+California,Cities,Alhambra,1,0,0,0,0,1,85865
+California,Cities,Aliso Viejo,1,0,0,0,0,0,51984
+California,Cities,Anaheim,0,0,1,0,0,0,353400
+California,Cities,Antioch,1,0,0,0,0,0,112252
+California,Cities,Apple Valley,0,1,0,0,0,0,73105
+California,Cities,Arcata,1,0,1,0,0,0,18054
+California,Cities,Atwater,1,0,0,0,0,1,29442
+California,Cities,Azusa,2,0,0,0,0,0,50202
+California,Cities,Bakersfield,4,0,3,0,0,0,381154
+California,Cities,Bell,0,1,0,0,0,0,35925
+California,Cities,Bellflower,0,1,0,0,0,0,77984
+California,Cities,Bell Gardens,1,0,0,0,0,0,42930
+California,Cities,Belmont,0,1,0,0,0,0,27285
+California,Cities,Benicia,1,0,0,0,0,0,28370
+California,Cities,Berkeley,13,4,6,0,0,0,122687
+California,Cities,Beverly Hills,2,0,0,0,0,0,34781
+California,Cities,Brentwood,1,0,0,0,0,1,62120
+California,Cities,Buena Park,1,0,0,0,0,0,83552
+California,Cities,Burbank,1,6,1,0,0,0,104622
+California,Cities,Camarillo,1,0,0,0,0,0,67714
+California,Cities,Capitola,1,0,0,0,0,0,10222
+California,Cities,Carlsbad,4,2,1,0,0,0,115344
+California,Cities,Carson,0,1,0,0,0,0,92992
+California,Cities,Central Marin,0,2,0,0,0,0,35060
+California,Cities,Chico,1,0,0,0,0,0,92459
+California,Cities,Chino,5,0,1,0,0,0,89420
+California,Cities,Chino Hills,1,0,0,0,0,0,79480
+California,Cities,Citrus Heights,1,0,1,0,0,0,88126
+California,Cities,Clearlake,0,1,1,0,0,0,15018
+California,Cities,Colma,0,0,1,0,0,0,1520
+California,Cities,Concord,0,0,1,0,0,0,129789
+California,Cities,Corcoran,1,0,0,0,0,0,22345
+California,Cities,Corning,1,0,0,0,0,0,7511
+California,Cities,Corona,1,0,1,0,0,0,169164
+California,Cities,Costa Mesa,2,0,0,0,0,0,113267
+California,Cities,Covina,0,0,1,0,0,0,48674
+California,Cities,Crescent City,1,0,0,0,0,0,6529
+California,Cities,Daly City,0,0,1,0,0,0,107355
+California,Cities,Davis,4,3,0,0,0,0,68540
+California,Cities,Desert Hot Springs,1,0,0,0,0,0,28717
+California,Cities,Duarte,2,0,0,0,0,0,21877
+California,Cities,Dublin,1,0,0,0,0,0,62235
+California,Cities,East Palo Alto,0,1,0,0,0,0,29933
+California,Cities,El Cajon,4,0,2,0,0,0,104447
+California,Cities,Elk Grove,4,0,0,0,0,0,172620
+California,Cities,El Monte,2,0,1,0,0,0,116168
+California,Cities,El Segundo,1,0,0,0,0,0,16932
+California,Cities,Escondido,5,0,0,0,0,0,152845
+California,Cities,Fairfield,3,0,0,0,0,0,116372
+California,Cities,Fontana,0,2,1,0,0,0,211782
+California,Cities,Fort Bragg,2,1,0,0,0,0,7289
+California,Cities,Foster City,0,1,0,0,0,0,34808
+California,Cities,Fremont,1,1,0,0,0,0,236368
+California,Cities,Fresno,7,1,4,0,0,1,526371
+California,Cities,Garden Grove,7,0,0,0,0,1,175466
+California,Cities,Glendora,1,0,0,0,0,0,52133
+California,Cities,Goleta,1,0,0,0,0,0,31000
+California,Cities,Gonzales,1,0,0,0,0,0,8508
+California,Cities,Hayward,3,1,0,0,0,0,161417
+California,Cities,Hesperia,3,0,0,0,0,0,94292
+California,Cities,Highland,1,0,0,0,0,0,55229
+California,Cities,Hollister,1,0,0,0,0,0,38310
+California,Cities,Huntington Beach,2,0,0,0,0,0,202244
+California,Cities,Huntington Park,1,1,0,0,0,0,59004
+California,Cities,Indio,1,0,0,0,0,0,90055
+California,Cities,Inglewood,2,0,0,0,0,0,110811
+California,Cities,Irvine,4,0,0,0,0,0,276115
+California,Cities,La Canada Flintridge,0,0,0,0,3,0,20480
+California,Cities,Laguna Beach,2,0,0,0,0,0,23261
+California,Cities,La Habra,1,0,0,0,0,0,61878
+California,Cities,Lake Elsinore,0,1,0,0,0,0,66136
+California,Cities,Lakeport,0,0,1,0,0,0,4775
+California,Cities,Lakewood,7,0,0,0,0,0,81317
+California,Cities,La Mesa,1,0,1,0,0,0,60425
+California,Cities,Lancaster,5,0,2,0,0,0,160653
+California,Cities,Lemon Grove,1,0,0,0,0,0,27113
+California,Cities,Livermore,2,0,0,0,0,0,90485
+California,Cities,Lodi,1,0,0,0,0,0,65042
+California,Cities,Loma Linda,1,0,0,0,0,0,24265
+California,Cities,Lomita,1,0,0,0,0,0,20764
+California,Cities,Long Beach,8,3,6,0,0,0,471397
+California,Cities,Los Angeles,126,43,82,0,1,11,4007147
+California,Cities,Los Gatos,0,1,0,0,0,0,30720
+California,Cities,Malibu,2,0,0,0,0,0,12918
+California,Cities,Manhattan Beach,0,0,1,0,0,0,35843
+California,Cities,Manteca,2,2,0,0,0,0,78564
+California,Cities,Martinez,2,4,0,1,0,0,38619
+California,Cities,Marysville,3,0,0,0,0,0,12275
+California,Cities,Menifee,1,0,0,0,0,0,90403
+California,Cities,Merced,1,0,0,0,0,0,83180
+California,Cities,Modesto,6,1,3,0,0,0,213677
+California,Cities,Monterey,1,0,1,0,0,0,28584
+California,Cities,Monterey Park,3,1,0,0,0,0,61210
+California,Cities,Moreno Valley,1,0,2,0,0,0,207418
+California,Cities,Murrieta,1,0,0,0,0,0,113016
+California,Cities,National City,1,0,0,0,0,0,61574
+California,Cities,Newark,2,1,0,0,0,0,46360
+California,Cities,Newport Beach,1,0,0,0,0,0,86910
+California,Cities,Norco,0,1,0,0,0,0,26654
+California,Cities,Norwalk,1,0,1,0,0,0,106278
+California,Cities,Novato,2,0,0,0,0,0,56698
+California,Cities,Oakland,9,7,2,0,0,0,424915
+California,Cities,Oceanside,4,1,1,0,0,0,176815
+California,Cities,Ontario,1,0,0,1,0,0,174724
+California,Cities,Orange,1,0,0,0,0,0,141130
+California,Cities,Orland,1,0,0,0,0,0,7624
+California,Cities,Oxnard,2,4,1,0,0,0,209513
+California,Cities,Pacifica,1,0,1,0,0,0,39353
+California,Cities,Pacific Grove,0,1,0,0,0,0,15716
+California,Cities,Palmdale,3,0,0,0,0,0,158094
+California,Cities,Palm Springs,0,0,3,0,0,0,48193
+California,Cities,Palo Alto,2,3,0,0,0,0,67441
+California,Cities,Paradise,1,0,0,0,0,0,26610
+California,Cities,Pasadena,1,1,0,0,0,1,142891
+California,Cities,Petaluma,5,1,2,0,0,0,60957
+California,Cities,Pico Rivera,0,0,2,0,0,1,63746
+California,Cities,Piedmont,1,1,0,0,0,0,11464
+California,Cities,Placentia,1,0,0,0,0,0,52437
+California,Cities,Pleasant Hill,0,1,0,0,0,0,35136
+California,Cities,Pomona,1,1,1,0,0,0,153066
+California,Cities,Rancho Cordova,2,0,0,0,0,0,73607
+California,Cities,Red Bluff,0,0,1,0,0,0,14169
+California,Cities,Redding,11,0,4,0,0,0,92127
+California,Cities,Redlands,1,1,0,0,0,0,71707
+California,Cities,Redwood City,2,0,0,0,0,0,86353
+California,Cities,Reedley,0,1,0,0,0,0,25794
+California,Cities,Rialto,1,0,0,0,0,0,103980
+California,Cities,Richmond,3,0,2,0,0,0,110804
+California,Cities,Riverside,4,4,0,0,0,0,328023
+California,Cities,Roseville,12,6,1,0,0,0,135028
+California,Cities,Sacramento,2,2,0,0,0,1,499997
+California,Cities,Salinas,0,0,1,0,0,0,158313
+California,Cities,San Bernardino,4,0,4,0,0,0,217259
+California,Cities,San Clemente,1,0,0,0,0,0,65596
+California,Cities,San Diego,17,12,11,0,0,1,1424116
+California,Cities,San Fernando,0,1,0,0,0,0,24899
+California,Cities,San Francisco,19,8,12,0,0,4,881255
+California,Cities,San Gabriel,1,1,0,0,0,0,40531
+California,Cities,San Jacinto,1,0,0,0,0,0,47932
+California,Cities,San Jose,26,11,7,0,0,1,1037529
+California,Cities,San Leandro,6,0,3,1,0,0,91386
+California,Cities,San Luis Obispo,2,2,1,0,0,0,47934
+California,Cities,San Marcos,1,1,0,0,0,0,97290
+California,Cities,San Mateo,2,0,0,0,0,0,105090
+California,Cities,San Rafael,3,0,0,0,0,0,59144
+California,Cities,San Ramon,2,1,0,0,0,0,76325
+California,Cities,Santa Ana,1,2,0,0,0,0,335699
+California,Cities,Santa Clara,1,0,0,0,0,0,127538
+California,Cities,Santa Clarita,5,5,3,0,0,0,216350
+California,Cities,Santa Cruz,5,1,3,0,0,0,65132
+California,Cities,Santa Monica,2,0,1,0,0,0,92935
+California,Cities,Santa Rosa,1,0,1,0,0,0,176361
+California,Cities,Santee,1,0,0,0,0,0,58563
+California,Cities,Simi Valley,0,2,1,0,0,0,126635
+California,Cities,South Gate,1,0,0,0,0,0,95717
+California,Cities,South Lake Tahoe,1,0,4,0,0,0,21768
+California,Cities,South San Francisco,1,0,1,0,0,0,67533
+California,Cities,St. Helena,2,0,0,0,0,0,6210
+California,Cities,Stockton,2,3,1,0,0,0,309566
+California,Cities,Sunnyvale,1,0,0,0,0,1,154919
+California,Cities,Taft,1,0,0,0,0,0,9393
+California,Cities,Thousand Oaks,0,1,0,0,0,0,129240
+California,Cities,Torrance,4,0,1,0,0,0,147482
+California,Cities,Turlock,3,0,0,0,0,0,73488
+California,Cities,Tustin,1,0,0,0,0,0,81246
+California,Cities,Union City,2,0,0,0,0,0,76311
+California,Cities,Vacaville,2,2,0,0,0,0,99293
+California,Cities,Ventura,4,0,0,0,0,0,110006
+California,Cities,Vernon,0,1,0,0,0,0,113
+California,Cities,Victorville,1,0,1,0,0,0,123284
+California,Cities,Visalia,1,0,0,0,0,0,132143
+California,Cities,Vista,4,1,1,0,0,0,103004
+California,Cities,Walnut,1,0,0,0,0,0,30189
+California,Cities,West Covina,0,3,0,0,0,0,108128
+California,Cities,West Hollywood,5,0,4,0,0,0,37093
+California,Cities,Westminster,2,2,0,0,0,0,91863
+California,Cities,Wildomar,1,0,0,0,0,0,36683
+California,Cities,Windsor,0,0,1,0,0,0,27679
+California,Cities,Yorba Linda,0,1,0,0,0,0,68889
+California,Cities,Yucca Valley,1,0,0,0,0,0,21806
+California,Universities and Colleges,,19,7,6,0,0,0,0
+California,Universities and Colleges,California State University:,,,,,,,0
+California,Universities and Colleges,Dominguez Hills,2,0,0,0,0,0,14731
+California,Universities and Colleges,Long Beach,1,2,0,0,0,0,37776
+California,Universities and Colleges,Monterey Bay,1,0,1,0,0,0,7274
+California,Universities and Colleges,San Bernardino,1,0,0,0,0,0,20767
+California,Universities and Colleges,Riverside Community College,2,0,0,0,0,0,38677
+California,Universities and Colleges,San Diego State University,0,1,0,0,0,0,34688
+California,Universities and Colleges,San Francisco State University,0,0,1,0,0,0,29045
+California,Universities and Colleges,State Center Community College District,3,0,0,0,0,0,39661
+California,Universities and Colleges,University of California:  ,,,,,,,0
+California,Universities and Colleges,Berkeley ,3,0,2,0,0,0,40154
+California,Universities and Colleges,Los Angeles ,3,1,1,0,0,0,43548
+California,Universities and Colleges,San Diego ,0,0,1,0,0,0,34979
+California,Universities and Colleges,San Francisco,0,2,0,0,0,0,3145
+California,Universities and Colleges,Santa Barbara,2,0,0,0,0,0,24346
+California,Universities and Colleges,"Medical Center, Sacramento3",0,1,0,0,0,0,0
+California,Universities and Colleges,Ventura County Community College District,1,0,0,0,0,0,33976
+California,Metropolitan Counties,,51,12,17,0,0,3,0
+California,Metropolitan Counties,Alameda,1,0,1,0,0,0,0
+California,Metropolitan Counties,Contra Costa,1,0,0,0,0,0,0
+California,Metropolitan Counties,El Dorado,2,0,0,0,0,0,0
+California,Metropolitan Counties,Fresno,1,0,1,0,0,0,0
+California,Metropolitan Counties,Kern,2,0,0,0,0,0,0
+California,Metropolitan Counties,Los Angeles,6,5,4,0,0,0,0
+California,Metropolitan Counties,Marin,0,1,0,0,0,0,0
+California,Metropolitan Counties,Monterey,1,0,0,0,0,0,0
+California,Metropolitan Counties,Riverside,1,0,0,0,0,0,0
+California,Metropolitan Counties,Sacramento,8,1,1,0,0,1,0
+California,Metropolitan Counties,San Bernardino,2,1,0,0,0,0,0
+California,Metropolitan Counties,San Diego,7,0,7,0,0,0,0
+California,Metropolitan Counties,San Luis Obispo,3,0,0,0,0,0,0
+California,Metropolitan Counties,San Mateo,0,1,0,0,0,0,0
+California,Metropolitan Counties,Santa Barbara,2,0,2,0,0,0,0
+California,Metropolitan Counties,Santa Clara,1,0,0,0,0,2,0
+California,Metropolitan Counties,Santa Cruz,1,1,0,0,0,0,0
+California,Metropolitan Counties,Solano,1,0,0,0,0,0,0
+California,Metropolitan Counties,Sonoma,4,0,1,0,0,0,0
+California,Metropolitan Counties,Stanislaus,1,0,0,0,0,0,0
+California,Metropolitan Counties,Sutter,0,1,0,0,0,0,0
+California,Metropolitan Counties,Ventura,2,1,0,0,0,0,0
+California,Metropolitan Counties,Yuba,4,0,0,0,0,0,0
+California,Nonmetropolitan Counties,,3,1,2,0,0,0,0
+California,Nonmetropolitan Counties,Calaveras,1,0,0,0,0,0,0
+California,Nonmetropolitan Counties,Lake,0,1,1,0,0,0,0
+California,Nonmetropolitan Counties,Mendocino,1,0,0,0,0,0,0
+California,Nonmetropolitan Counties,Nevada,0,0,1,0,0,0,0
+California,Nonmetropolitan Counties,Plumas,1,0,0,0,0,0,0
+California,Other Agencies,,6,0,6,0,0,0,0
+California,Other Agencies,Department of Parks and Recreation:,,,,,,,0
+California,Other Agencies,Marin County,1,0,0,0,0,0,0
+California,Other Agencies,Oceano Dunes,0,0,1,0,0,0,0
+California,Other Agencies,Los Angeles Transportation Services Bureau,3,0,3,0,0,0,0
+California,Other Agencies,Port of San Diego Harbor,0,0,1,0,0,0,0
+California,Other Agencies,San Francisco Bay Area Rapid Transit:  ,,,,,,,0
+California,Other Agencies,Alameda County,1,0,0,0,0,0,0
+California,Other Agencies,San Francisco County,1,0,1,0,0,0,0
+Colorado,Total,,61,26,18,1,1,1,0
+Colorado,Cities,,49,16,13,1,1,1,0
+Colorado,Cities,Arvada,1,0,1,0,0,0,119346
+Colorado,Cities,Aspen,1,0,0,0,0,0,6906
+Colorado,Cities,Aurora,14,3,1,0,0,0,368018
+Colorado,Cities,Boulder,2,1,0,0,0,0,109722
+Colorado,Cities,Brighton,0,0,1,0,0,0,39099
+Colorado,Cities,Broomfield,1,0,0,0,0,0,68158
+Colorado,Cities,Canon City,0,1,0,0,0,0,16723
+Colorado,Cities,Castle Rock,2,0,0,0,0,0,59337
+Colorado,Cities,Centennial,2,0,0,0,0,0,111416
+Colorado,Cities,Colorado Springs,0,1,0,0,0,0,472958
+Colorado,Cities,Delta2,0,0,0,1,1,0,8925
+Colorado,Cities,Denver,9,2,6,0,0,0,706616
+Colorado,Cities,Durango,0,1,0,0,0,0,18801
+Colorado,Cities,Englewood,2,0,0,0,0,0,34709
+Colorado,Cities,Fruita,0,0,1,0,0,0,12971
+Colorado,Cities,Golden,1,0,0,0,0,0,20948
+Colorado,Cities,Grand Junction,0,1,1,0,0,0,62352
+Colorado,Cities,Greeley,3,0,0,0,0,0,105906
+Colorado,Cities,Idaho Springs,1,0,0,0,0,0,1751
+Colorado,Cities,Lafayette,0,1,0,0,0,0,28939
+Colorado,Cities,Lakewood,3,0,1,0,0,0,156344
+Colorado,Cities,Littleton,0,3,0,0,0,0,47112
+Colorado,Cities,Longmont2,1,0,0,0,0,1,93979
+Colorado,Cities,Loveland,1,0,1,0,0,0,78671
+Colorado,Cities,Monument,1,0,0,0,0,0,6644
+Colorado,Cities,Northglenn,0,1,0,0,0,0,39520
+Colorado,Cities,Pueblo,2,0,0,0,0,0,110872
+Colorado,Cities,Steamboat Springs,0,1,0,0,0,0,12799
+Colorado,Cities,Trinidad,1,0,0,0,0,0,7961
+Colorado,Cities,Windsor,1,0,0,0,0,0,23523
+Colorado,Universities and Colleges,,3,1,0,0,0,0,0
+Colorado,Universities and Colleges,"Colorado State University, Fort Collins",3,0,0,0,0,0,31856
+Colorado,Universities and Colleges,"University of Colorado, Boulder",0,1,0,0,0,0,33977
+Colorado,Metropolitan Counties,,9,8,3,0,0,0,0
+Colorado,Metropolitan Counties,Adams,1,0,0,0,0,0,0
+Colorado,Metropolitan Counties,Arapahoe,3,3,0,0,0,0,0
+Colorado,Metropolitan Counties,Boulder,0,3,0,0,0,0,0
+Colorado,Metropolitan Counties,Douglas,1,0,0,0,0,0,0
+Colorado,Metropolitan Counties,El Paso,2,0,1,0,0,0,0
+Colorado,Metropolitan Counties,Jefferson,1,1,1,0,0,0,0
+Colorado,Metropolitan Counties,Larimer,0,1,0,0,0,0,0
+Colorado,Metropolitan Counties,Mesa,1,0,1,0,0,0,0
+Colorado,Nonmetropolitan Counties,,0,1,2,0,0,0,0
+Colorado,Nonmetropolitan Counties,Garfield,0,0,1,0,0,0,0
+Colorado,Nonmetropolitan Counties,Huerfano,0,1,0,0,0,0,0
+Colorado,Nonmetropolitan Counties,Routt,0,0,1,0,0,0,0
+Connecticut,Total,,66,23,22,0,0,1,0
+Connecticut,Cities,,60,23,19,0,0,1,0
+Connecticut,Cities,Avon,1,0,0,0,0,0,18397
+Connecticut,Cities,Berlin,1,2,0,0,0,0,20601
+Connecticut,Cities,Bethel,3,0,0,0,0,0,19796
+Connecticut,Cities,Bloomfield,0,0,2,0,0,0,20667
+Connecticut,Cities,Bridgeport2,5,0,2,0,0,0,146110
+Connecticut,Cities,Brookfield,1,0,0,0,0,0,17203
+Connecticut,Cities,Cheshire,0,0,2,0,0,0,29282
+Connecticut,Cities,Clinton,1,0,0,0,0,0,12915
+Connecticut,Cities,Danbury,4,0,1,0,0,0,85614
+Connecticut,Cities,Darien,1,0,0,0,0,0,21910
+Connecticut,Cities,East Haven,1,0,0,0,0,0,28739
+Connecticut,Cities,East Windsor,1,0,0,0,0,0,11383
+Connecticut,Cities,Enfield,1,0,0,0,0,0,44321
+Connecticut,Cities,Groton,1,0,0,0,0,0,9093
+Connecticut,Cities,Groton Town,1,0,0,0,0,0,29524
+Connecticut,Cities,Guilford,0,0,1,0,0,0,22259
+Connecticut,Cities,Hartford,2,1,1,0,0,0,122891
+Connecticut,Cities,Manchester,2,0,2,0,0,0,57808
+Connecticut,Cities,Meriden,0,0,1,0,0,0,59417
+Connecticut,Cities,Middletown,5,2,1,0,0,0,46363
+Connecticut,Cities,New Britain,0,1,0,0,0,0,72442
+Connecticut,Cities,New Haven,4,2,3,0,0,1,129953
+Connecticut,Cities,New London,0,0,1,0,0,0,26880
+Connecticut,Cities,New Milford,1,0,0,0,0,0,26993
+Connecticut,Cities,North Branford,0,1,0,0,0,0,14163
+Connecticut,Cities,North Haven,0,0,1,0,0,0,23646
+Connecticut,Cities,Norwich,0,1,0,0,0,0,39393
+Connecticut,Cities,Old Saybrook,3,0,0,0,0,0,10070
+Connecticut,Cities,Orange,2,1,0,0,0,0,13904
+Connecticut,Cities,Rocky Hill,2,0,0,0,0,0,20189
+Connecticut,Cities,Southington,1,0,0,0,0,0,43769
+Connecticut,Cities,Stamford,3,3,0,0,0,0,130189
+Connecticut,Cities,Torrington,4,1,0,0,0,0,34372
+Connecticut,Cities,Trumbull,4,4,1,0,0,0,36265
+Connecticut,Cities,Waterbury,0,1,0,0,0,0,107924
+Connecticut,Cities,West Hartford,1,0,0,0,0,0,62812
+Connecticut,Cities,Westport,1,0,0,0,0,0,28079
+Connecticut,Cities,Willimantic,1,0,0,0,0,0,17768
+Connecticut,Cities,Wilton,1,2,0,0,0,0,18643
+Connecticut,Cities,Windsor,1,0,0,0,0,0,28836
+Connecticut,Cities,Woodbridge,0,1,0,0,0,0,8816
+Connecticut,Universities and Colleges,,3,0,0,0,0,0,0
+Connecticut,Universities and Colleges,Yale University,3,0,0,0,0,0,12458
+Connecticut,State Police Agencies,,2,0,3,0,0,0,0
+Connecticut,State Police Agencies,Connecticut State Police,2,0,3,0,0,0,0
+Connecticut,Tribal Agencies,,1,0,0,0,0,0,0
+Connecticut,Tribal Agencies,Mohegan Tribal,1,0,0,0,0,0,0
+Delaware,Total,,14,8,6,0,0,1,0
+Delaware,Cities,,2,0,4,0,0,1,0
+Delaware,Cities,Dewey Beach,0,0,1,0,0,0,386
+Delaware,Cities,New Castle,0,0,1,0,0,0,5362
+Delaware,Cities,Rehoboth Beach,1,0,1,0,0,1,1516
+Delaware,Cities,Wilmington,1,0,1,0,0,0,71552
+Delaware,Universities and Colleges,,4,1,1,0,0,0,0
+Delaware,Universities and Colleges,University of Delaware,4,1,1,0,0,0,23009
+Delaware,Metropolitan Counties,,2,4,0,0,0,0,0
+Delaware,Metropolitan Counties,New Castle County Police Department,2,4,0,0,0,0,0
+Delaware,State Police Agencies,,4,2,0,0,0,0,0
+Delaware,State Police Agencies,State Police:,,,,,,,0
+Delaware,State Police Agencies,Kent County,2,1,0,0,0,0,0
+Delaware,State Police Agencies,New Castle County,2,1,0,0,0,0,0
+Delaware,Other Agencies,,2,1,1,0,0,0,0
+Delaware,Other Agencies,Fish and Wildlife,1,0,0,0,0,0,0
+Delaware,Other Agencies,River and Bay Authority,1,0,0,0,0,0,0
+Delaware,Other Agencies,State Capitol Police,0,1,1,0,0,0,0
+District of Columbia,Total,,108,14,57,1,0,13,0
+District of Columbia,Cities,,87,12,56,1,0,13,0
+District of Columbia,Cities,Washington,87,12,56,1,0,13,693972
+District of Columbia,Other Agencies,,21,2,1,0,0,0,0
+District of Columbia,Other Agencies,Metro Transit Police,21,2,1,0,0,0,0
+Florida,Total,,70,43,32,0,0,0,0
+Florida,Cities,,42,33,26,0,0,0,0
+Florida,Cities,Boca Raton,0,1,0,0,0,0,98069
+Florida,Cities,Clearwater,1,0,0,0,0,0,115295
+Florida,Cities,Cooper City,0,1,0,0,0,0,36694
+Florida,Cities,Coral Gables,1,0,0,0,0,0,51487
+Florida,Cities,Davie,4,3,0,0,0,0,103555
+Florida,Cities,Deerfield Beach,2,0,0,0,0,0,80552
+Florida,Cities,Delray Beach,0,1,0,0,0,0,68533
+Florida,Cities,Fort Lauderdale,2,2,2,0,0,0,180972
+Florida,Cities,Fort Myers,1,1,1,0,0,0,79918
+Florida,Cities,Gainesville,0,1,0,0,0,0,132777
+Florida,Cities,Hollywood,0,0,1,0,0,0,153893
+Florida,Cities,Homestead,1,1,2,0,0,0,69276
+Florida,Cities,Jacksonville,3,2,1,0,0,0,894638
+Florida,Cities,Key Biscayne,0,0,1,0,0,0,13127
+Florida,Cities,Key West,0,0,1,0,0,0,27399
+Florida,Cities,Lake City,1,0,0,0,0,0,12326
+Florida,Cities,Largo,1,2,0,0,0,0,83728
+Florida,Cities,Lauderdale-by-the-Sea,1,0,0,0,0,0,6589
+Florida,Cities,Leesburg,1,0,0,0,0,0,22763
+Florida,Cities,Mangonia Park,0,0,1,0,0,0,2009
+Florida,Cities,Miami Beach,0,7,9,0,0,0,92571
+Florida,Cities,Miami Gardens,0,2,0,0,0,0,114008
+Florida,Cities,New Port Richey,1,0,0,0,0,0,16388
+Florida,Cities,North Miami,1,0,0,0,0,0,62543
+Florida,Cities,Oakland Park,2,1,1,0,0,0,44814
+Florida,Cities,Ocala,0,0,1,0,0,0,59731
+Florida,Cities,Orlando,2,0,3,0,0,0,283982
+Florida,Cities,Palm Bay,1,0,1,0,0,0,111275
+Florida,Cities,Pompano Beach,2,1,0,0,0,0,111027
+Florida,Cities,Port St. Lucie,0,0,1,0,0,0,188652
+Florida,Cities,Rockledge,1,0,0,0,0,0,27432
+Florida,Cities,St. Augustine,1,0,0,0,0,0,14500
+Florida,Cities,Sunrise,1,1,0,0,0,0,95342
+Florida,Cities,Tampa,3,0,0,0,0,0,384360
+Florida,Cities,Titusville,5,0,0,0,0,0,46425
+Florida,Cities,Weston,1,2,0,0,0,0,70796
+Florida,Cities,West Palm Beach,2,0,0,0,0,0,109459
+Florida,Cities,Wilton Manors,0,3,0,0,0,0,12861
+Florida,Cities,Winter Park,0,1,0,0,0,0,30602
+Florida,Universities and Colleges,,1,2,1,0,0,0,0
+Florida,Universities and Colleges,Florida Gulf Coast University,0,1,0,0,0,0,14821
+Florida,Universities and Colleges,Tallahassee Community College,0,1,0,0,0,0,12200
+Florida,Universities and Colleges,"University of South Florida, Tampa",1,0,0,0,0,0,42861
+Florida,Universities and Colleges,University of West Florida,0,0,1,0,0,0,12966
+Florida,Metropolitan Counties,,25,8,5,0,0,0,0
+Florida,Metropolitan Counties,Alachua,1,0,0,0,0,0,0
+Florida,Metropolitan Counties,Broward,1,0,0,0,0,0,0
+Florida,Metropolitan Counties,Charlotte,1,0,0,0,0,0,0
+Florida,Metropolitan Counties,Clay,1,1,0,0,0,0,0
+Florida,Metropolitan Counties,Collier,0,1,0,0,0,0,0
+Florida,Metropolitan Counties,Hillsborough,0,1,0,0,0,0,0
+Florida,Metropolitan Counties,Lake,1,0,0,0,0,0,0
+Florida,Metropolitan Counties,Lee,4,1,1,0,0,0,0
+Florida,Metropolitan Counties,Leon,1,0,0,0,0,0,0
+Florida,Metropolitan Counties,Martin,1,0,0,0,0,0,0
+Florida,Metropolitan Counties,Miami-Dade,0,0,1,0,0,0,0
+Florida,Metropolitan Counties,Okaloosa,1,0,0,0,0,0,0
+Florida,Metropolitan Counties,Orange,2,0,0,0,0,0,0
+Florida,Metropolitan Counties,Osceola,2,1,1,0,0,0,0
+Florida,Metropolitan Counties,Palm Beach,1,1,0,0,0,0,0
+Florida,Metropolitan Counties,Pasco,3,0,0,0,0,0,0
+Florida,Metropolitan Counties,Pinellas,0,1,0,0,0,0,0
+Florida,Metropolitan Counties,Santa Rosa,0,0,1,0,0,0,0
+Florida,Metropolitan Counties,Sarasota,0,1,0,0,0,0,0
+Florida,Metropolitan Counties,Seminole,1,0,1,0,0,0,0
+Florida,Metropolitan Counties,St. Johns,3,0,0,0,0,0,0
+Florida,Metropolitan Counties,Volusia,1,0,0,0,0,0,0
+Florida,Nonmetropolitan Counties,,2,0,0,0,0,0,0
+Florida,Nonmetropolitan Counties,Hendry,1,0,0,0,0,0,0
+Florida,Nonmetropolitan Counties,Monroe,1,0,0,0,0,0,0
+Georgia,Total,,19,5,4,0,0,0,0
+Georgia,Cities,,5,1,3,0,0,0,0
+Georgia,Cities,Atlanta,0,1,2,0,0,0,481343
+Georgia,Cities,Columbus,3,0,1,0,0,0,198832
+Georgia,Cities,Warner Robins,1,0,0,0,0,0,75323
+Georgia,Cities,Woodstock,1,0,0,0,0,0,32293
+Georgia,Universities and Colleges,,2,0,0,0,0,0,0
+Georgia,Universities and Colleges,University of Georgia,2,0,0,0,0,0,36574
+Georgia,Metropolitan Counties,,12,4,1,0,0,0,0
+Georgia,Metropolitan Counties,Cobb County Police Department,9,2,1,0,0,0,0
+Georgia,Metropolitan Counties,Forsyth,1,0,0,0,0,0,0
+Georgia,Metropolitan Counties,Gwinnett County Police Department2,2,2,0,0,0,0,0
+Idaho,Total,,30,17,4,2,0,0,0
+Idaho,Cities,,24,15,4,2,0,0,0
+Idaho,Cities,Boise,7,6,2,0,0,0,225677
+Idaho,Cities,Bonners Ferry,0,1,0,0,0,0,2574
+Idaho,Cities,Caldwell,2,0,0,0,0,0,54345
+Idaho,Cities,Coeur d'Alene,2,0,0,0,0,0,51364
+Idaho,Cities,Heyburn,0,1,0,0,0,0,3306
+Idaho,Cities,Kimberly,2,0,0,0,0,0,3812
+Idaho,Cities,Lewiston,3,0,0,0,0,0,33029
+Idaho,Cities,Middleton,1,0,0,0,0,0,7486
+Idaho,Cities,Moscow,1,0,0,0,0,0,25576
+Idaho,Cities,Mountain Home,2,0,0,0,0,0,13772
+Idaho,Cities,Nampa,2,1,1,0,0,0,93064
+Idaho,Cities,Pocatello,0,1,0,0,0,0,54814
+Idaho,Cities,Preston,0,3,0,0,0,0,5372
+Idaho,Cities,Soda Springs,1,0,0,0,0,0,2970
+Idaho,Cities,Spirit Lake,1,0,0,0,0,0,2207
+Idaho,Cities,Twin Falls,0,2,1,2,0,0,48912
+Idaho,Metropolitan Counties,,0,1,0,0,0,0,0
+Idaho,Metropolitan Counties,Kootenai,0,1,0,0,0,0,0
+Idaho,Nonmetropolitan Counties,,5,0,0,0,0,0,0
+Idaho,Nonmetropolitan Counties,Cassia,3,0,0,0,0,0,0
+Idaho,Nonmetropolitan Counties,Idaho,1,0,0,0,0,0,0
+Idaho,Nonmetropolitan Counties,Teton,1,0,0,0,0,0,0
+Idaho,State Police Agencies,,1,1,0,0,0,0,0
+Idaho,State Police Agencies,Idaho State Police,1,1,0,0,0,0,0
+Illinois,Total,,39,27,14,1,0,1,0
+Illinois,Cities,,37,23,14,1,0,1,0
+Illinois,Cities,Aurora,2,0,0,0,0,0,201599
+Illinois,Cities,Berwyn,1,1,1,0,0,0,55594
+Illinois,Cities,Bloomington,1,0,0,0,0,0,78203
+Illinois,Cities,Chicago,16,17,7,0,0,1,2706171
+Illinois,Cities,Decatur,1,0,0,0,0,0,72153
+Illinois,Cities,De Kalb,0,1,0,0,0,0,43043
+Illinois,Cities,East Peoria,1,0,0,0,0,0,22856
+Illinois,Cities,Forest Park,0,0,1,0,0,0,13950
+Illinois,Cities,Fox Lake,1,0,0,0,0,0,10432
+Illinois,Cities,Fox River Grove,1,0,0,0,0,0,4628
+Illinois,Cities,Homewood,2,0,0,0,0,0,19150
+Illinois,Cities,Manhattan,1,0,0,0,0,0,7625
+Illinois,Cities,Mount Prospect,0,2,0,0,0,0,54162
+Illinois,Cities,New Lenox,0,0,0,1,0,0,26529
+Illinois,Cities,Oak Park,1,0,0,0,0,0,51753
+Illinois,Cities,Pekin,1,0,0,0,0,0,32866
+Illinois,Cities,Peoria,0,0,1,0,0,0,114157
+Illinois,Cities,Plainfield,0,1,0,0,0,0,43450
+Illinois,Cities,Pontiac,1,0,0,0,0,0,11813
+Illinois,Cities,Rockford,2,0,2,0,0,0,146770
+Illinois,Cities,Sandoval,1,0,0,0,0,0,1211
+Illinois,Cities,Skokie,1,0,0,0,0,0,64167
+Illinois,Cities,Springfield,2,0,1,0,0,0,115568
+Illinois,Cities,Urbana,1,0,0,0,0,0,42091
+Illinois,Cities,West Chicago,0,0,1,0,0,0,27219
+Illinois,Cities,Wheaton,0,1,0,0,0,0,53444
+Illinois,Universities and Colleges,,0,1,0,0,0,0,0
+Illinois,Universities and Colleges,Illinois State University,0,1,0,0,0,0,21039
+Illinois,Metropolitan Counties,,2,3,0,0,0,0,0
+Illinois,Metropolitan Counties,Lake,0,1,0,0,0,0,0
+Illinois,Metropolitan Counties,Macon,1,0,0,0,0,0,0
+Illinois,Metropolitan Counties,Peoria,1,0,0,0,0,0,0
+Illinois,Metropolitan Counties,Will,0,1,0,0,0,0,0
+Illinois,Metropolitan Counties,Winnebago,0,1,0,0,0,0,0
+Indiana,Total,,32,13,9,1,0,0,0
+Indiana,Cities,,27,4,7,0,0,0,0
+Indiana,Cities,Bloomington,6,2,2,0,0,0,85121
+Indiana,Cities,Fishers,2,0,0,0,0,0,92367
+Indiana,Cities,Fort Wayne,2,0,2,0,0,0,266259
+Indiana,Cities,Hammond,2,0,1,0,0,0,76550
+Indiana,Cities,Lafayette,8,0,1,0,0,0,72274
+Indiana,Cities,Lawrence,2,1,0,0,0,0,48174
+Indiana,Cities,Michigan City,1,0,0,0,0,0,31108
+Indiana,Cities,Plainfield,1,0,1,0,0,0,32067
+Indiana,Cities,South Bend,3,0,0,0,0,0,101857
+Indiana,Cities,Whitestown,0,1,0,0,0,0,7464
+Indiana,Universities and Colleges,,1,0,0,0,0,0,0
+Indiana,Universities and Colleges,Purdue University,1,0,0,0,0,0,41513
+Indiana,Metropolitan Counties,,2,0,0,0,0,0,0
+Indiana,Metropolitan Counties,Vigo,2,0,0,0,0,0,0
+Indiana,State Police Agencies,,2,9,2,1,0,0,0
+Indiana,State Police Agencies,State Police:,,,,,,,0
+Indiana,State Police Agencies,Crawford County,0,1,0,0,0,0,0
+Indiana,State Police Agencies,Floyd County,0,1,0,0,0,0,0
+Indiana,State Police Agencies,Marion County,1,2,1,1,0,0,0
+Indiana,State Police Agencies,Miami County,0,1,0,0,0,0,0
+Indiana,State Police Agencies,Monroe County,0,1,0,0,0,0,0
+Indiana,State Police Agencies,Posey County,0,1,0,0,0,0,0
+Indiana,State Police Agencies,Scott County,0,2,0,0,0,0,0
+Indiana,State Police Agencies,Vanderburgh County,1,0,0,0,0,0,0
+Indiana,State Police Agencies,Washington County,0,0,1,0,0,0,0
+Iowa,Total,,9,1,1,0,0,0,0
+Iowa,Cities,,9,1,1,0,0,0,0
+Iowa,Cities,Altoona,1,0,0,0,0,0,18556
+Iowa,Cities,Ames,1,0,0,0,0,0,67461
+Iowa,Cities,Clinton,1,0,0,0,0,0,25532
+Iowa,Cities,Dubuque,1,0,0,0,0,0,58674
+Iowa,Cities,Iowa City,3,0,0,0,0,0,75519
+Iowa,Cities,Marshalltown,0,1,0,0,0,0,27287
+Iowa,Cities,Urbandale,1,0,0,0,0,0,43637
+Iowa,Cities,Waukee,1,0,1,0,0,0,20359
+Kansas,Total,,39,16,11,9,0,0,0
+Kansas,Cities,,28,11,9,7,0,0,0
+Kansas,Cities,Arma,0,0,1,0,0,0,1438
+Kansas,Cities,Coffeyville,1,1,0,0,0,0,9423
+Kansas,Cities,Dodge City,1,3,0,1,0,0,27447
+Kansas,Cities,Edwardsville,1,0,0,0,0,0,4395
+Kansas,Cities,El Dorado,0,1,0,0,0,0,13125
+Kansas,Cities,Emporia,1,1,0,0,0,0,24804
+Kansas,Cities,Garden City,2,1,0,0,0,0,26728
+Kansas,Cities,Haven,1,0,0,0,0,0,1207
+Kansas,Cities,Hays,0,1,0,0,0,0,21110
+Kansas,Cities,Haysville,1,0,0,0,0,0,11314
+Kansas,Cities,Herington,0,0,1,0,0,0,2336
+Kansas,Cities,Hutchinson,1,0,0,1,0,0,41160
+Kansas,Cities,Junction City,1,0,0,0,0,0,24240
+Kansas,Cities,Liberal,0,0,0,1,0,0,20317
+Kansas,Cities,Lindsborg,0,0,1,1,0,0,3319
+Kansas,Cities,Mulvane,1,0,0,0,0,0,6343
+Kansas,Cities,Newton,2,0,0,0,0,0,19095
+Kansas,Cities,Norton,1,0,1,1,0,0,2799
+Kansas,Cities,Ottawa,3,1,0,0,0,0,12307
+Kansas,Cities,Salina,4,1,2,1,0,0,47251
+Kansas,Cities,Sedgwick,1,0,0,0,0,0,1695
+Kansas,Cities,Shawnee,1,0,0,0,0,0,65683
+Kansas,Cities,Tonganoxie,0,0,0,1,0,0,5379
+Kansas,Cities,Topeka,1,0,0,0,0,0,126624
+Kansas,Cities,Valley Center,2,0,0,0,0,0,7431
+Kansas,Cities,Wichita,2,1,3,0,0,0,391084
+Kansas,Universities and Colleges,,1,0,0,0,0,0,0
+Kansas,Universities and Colleges,Kansas State University,1,0,0,0,0,0,23779
+Kansas,Metropolitan Counties,,8,2,1,1,0,0,0
+Kansas,Metropolitan Counties,Doniphan,0,0,0,1,0,0,0
+Kansas,Metropolitan Counties,Johnson,1,0,0,0,0,0,0
+Kansas,Metropolitan Counties,Riley County Police Department,3,1,0,0,0,0,0
+Kansas,Metropolitan Counties,Sedgwick,2,0,0,0,0,0,0
+Kansas,Metropolitan Counties,Shawnee,2,1,1,0,0,0,0
+Kansas,Nonmetropolitan Counties,,2,3,1,0,0,0,0
+Kansas,Nonmetropolitan Counties,Barton,0,1,0,0,0,0,0
+Kansas,Nonmetropolitan Counties,Crawford,0,1,1,0,0,0,0
+Kansas,Nonmetropolitan Counties,Ford,0,1,0,0,0,0,0
+Kansas,Nonmetropolitan Counties,Labette,1,0,0,0,0,0,0
+Kansas,Nonmetropolitan Counties,Saline,1,0,0,0,0,0,0
+Kansas,State Police Agencies,,0,0,0,1,0,0,0
+Kansas,State Police Agencies,"Highway Patrol, Troop E",0,0,0,1,0,0,0
+Kentucky,Total,,283,38,27,12,16,3,0
+Kentucky,Cities,,186,21,17,6,7,3,0
+Kentucky,Cities,Alexandria,1,2,0,0,0,0,9486
+Kentucky,Cities,Ashland,0,0,1,0,0,0,20927
+Kentucky,Cities,Barbourville,1,0,0,0,1,0,3169
+Kentucky,Cities,Bowling Green,18,2,2,2,1,0,66317
+Kentucky,Cities,Cadiz,0,0,1,0,0,0,2629
+Kentucky,Cities,Carrollton,2,0,0,0,0,0,3864
+Kentucky,Cities,Cold Spring,1,0,0,0,0,0,6276
+Kentucky,Cities,Corbin,2,0,0,0,0,0,7411
+Kentucky,Cities,Covington,4,1,1,0,0,0,40845
+Kentucky,Cities,Cynthiana,1,0,0,0,0,0,6375
+Kentucky,Cities,Danville,3,0,0,0,0,0,16891
+Kentucky,Cities,Dayton,2,0,0,0,0,0,5423
+Kentucky,Cities,Elizabethtown,4,0,0,0,0,0,30065
+Kentucky,Cities,Elsmere,1,1,0,0,0,0,8541
+Kentucky,Cities,Erlanger,1,0,0,0,1,0,22947
+Kentucky,Cities,Falmouth,1,0,0,0,0,0,2127
+Kentucky,Cities,Florence,19,1,0,0,1,0,32866
+Kentucky,Cities,Fort Mitchell,1,0,0,0,0,0,8306
+Kentucky,Cities,Frankfort,5,1,0,0,1,0,27975
+Kentucky,Cities,Franklin,3,0,1,0,0,0,8884
+Kentucky,Cities,Fulton,0,0,1,0,0,0,2174
+Kentucky,Cities,Georgetown,2,0,0,0,0,1,34184
+Kentucky,Cities,Glasgow,6,0,0,0,0,0,14690
+Kentucky,Cities,Greensburg,1,0,0,0,0,0,2123
+Kentucky,Cities,Hillview,1,0,0,0,0,0,8942
+Kentucky,Cities,Hopkinsville,2,0,0,0,0,0,31761
+Kentucky,Cities,Independence,1,0,0,0,0,0,27400
+Kentucky,Cities,Irvine,0,0,0,1,0,0,2385
+Kentucky,Cities,La Center,0,0,1,0,0,0,982
+Kentucky,Cities,La Grange,1,0,0,0,0,0,8831
+Kentucky,Cities,Lawrenceburg,2,0,0,0,0,0,11211
+Kentucky,Cities,Leitchfield,1,0,0,0,0,0,6900
+Kentucky,Cities,Lexington,20,3,3,0,0,1,322332
+Kentucky,Cities,London,1,0,0,0,0,0,8184
+Kentucky,Cities,Louisville Metro,11,2,0,1,0,0,684362
+Kentucky,Cities,Madisonville,1,1,0,0,0,0,19316
+Kentucky,Cities,Mayfield,6,0,1,0,0,0,9991
+Kentucky,Cities,Maysville,8,0,0,0,1,0,8841
+Kentucky,Cities,Middlesboro,1,0,0,0,0,0,9534
+Kentucky,Cities,Morehead,1,0,0,0,0,0,7915
+Kentucky,Cities,Mount Sterling,2,0,0,0,0,0,7298
+Kentucky,Cities,Mount Washington,1,0,0,0,0,0,14511
+Kentucky,Cities,Murray,2,0,1,0,1,0,19205
+Kentucky,Cities,Newport,1,0,0,0,0,0,15202
+Kentucky,Cities,Nicholasville,4,0,0,0,0,0,30333
+Kentucky,Cities,Owensboro,5,1,1,0,0,0,59576
+Kentucky,Cities,Paducah,10,2,1,0,0,1,25169
+Kentucky,Cities,Paris,2,0,1,0,0,0,9845
+Kentucky,Cities,Park Hills,1,0,0,0,0,0,3001
+Kentucky,Cities,Princeton,0,1,0,0,0,0,6084
+Kentucky,Cities,Providence,1,0,0,0,0,0,3088
+Kentucky,Cities,Radcliff,3,0,0,0,0,0,22473
+Kentucky,Cities,Richmond,5,0,1,0,0,0,35161
+Kentucky,Cities,Russell Springs,1,0,0,0,0,0,2573
+Kentucky,Cities,Russellville,0,0,0,1,0,0,7006
+Kentucky,Cities,Scottsville,1,0,0,0,0,0,4446
+Kentucky,Cities,Shelbyville,2,0,0,1,0,0,15758
+Kentucky,Cities,Shively,2,0,0,0,0,0,15830
+Kentucky,Cities,St. Matthews,4,1,0,0,0,0,18163
+Kentucky,Cities,Versailles,0,1,0,0,0,0,26320
+Kentucky,Cities,Villa Hills,1,0,0,0,0,0,7494
+Kentucky,Cities,Wilmore,1,0,0,0,0,0,6380
+Kentucky,Cities,Winchester,1,0,0,0,0,0,18478
+Kentucky,Cities,Worthington,0,1,0,0,0,0,1565
+Kentucky,Universities and Colleges,,6,2,4,0,0,0,0
+Kentucky,Universities and Colleges,Eastern Kentucky University,1,0,4,0,0,0,16881
+Kentucky,Universities and Colleges,Kentucky State University,2,0,0,0,0,0,1736
+Kentucky,Universities and Colleges,University of Kentucky,2,2,0,0,0,0,29781
+Kentucky,Universities and Colleges,Western Kentucky University,1,0,0,0,0,0,20271
+Kentucky,Metropolitan Counties,,31,6,2,1,0,0,0
+Kentucky,Metropolitan Counties,Boone,14,1,0,0,0,0,0
+Kentucky,Metropolitan Counties,Boyd,0,1,0,0,0,0,0
+Kentucky,Metropolitan Counties,Bullitt,0,0,1,0,0,0,0
+Kentucky,Metropolitan Counties,Campbell County Police Department2,2,2,1,0,0,0,0
+Kentucky,Metropolitan Counties,Christian,0,1,0,0,0,0,0
+Kentucky,Metropolitan Counties,Clark,3,0,0,0,0,0,0
+Kentucky,Metropolitan Counties,Daviess,1,0,0,0,0,0,0
+Kentucky,Metropolitan Counties,Grant,0,1,0,0,0,0,0
+Kentucky,Metropolitan Counties,Greenup,1,0,0,0,0,0,0
+Kentucky,Metropolitan Counties,Hardin,1,0,0,0,0,0,0
+Kentucky,Metropolitan Counties,Jessamine,0,0,0,1,0,0,0
+Kentucky,Metropolitan Counties,Kenton County Police Department,1,0,0,0,0,0,0
+Kentucky,Metropolitan Counties,Oldham County Police Department,2,0,0,0,0,0,0
+Kentucky,Metropolitan Counties,Pendleton,1,0,0,0,0,0,0
+Kentucky,Metropolitan Counties,Shelby,1,0,0,0,0,0,0
+Kentucky,Metropolitan Counties,Trigg,1,0,0,0,0,0,0
+Kentucky,Metropolitan Counties,Warren,3,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,,27,4,3,1,7,0,0
+Kentucky,Nonmetropolitan Counties,Anderson,0,1,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Bell,0,1,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Boyle,2,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Breckinridge,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Floyd,2,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Franklin,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Graves,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Knott,0,1,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Knox,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Laurel,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Lincoln,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Livingston,2,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Madison,0,0,1,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Marion,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Martin,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Mason,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,McCracken,6,0,0,1,7,0,0
+Kentucky,Nonmetropolitan Counties,Montgomery,2,1,1,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Ohio,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Rockcastle,0,0,1,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Simpson,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Taylor,1,0,0,0,0,0,0
+Kentucky,Nonmetropolitan Counties,Wolfe,1,0,0,0,0,0,0
+Kentucky,State Police Agencies,,22,2,1,3,1,0,0
+Kentucky,State Police Agencies,State Police,,,,,,,0
+Kentucky,State Police Agencies,Ashland,0,0,0,1,0,0,0
+Kentucky,State Police Agencies,Bowling Green,1,0,0,0,0,0,0
+Kentucky,State Police Agencies,Campbellsburg,0,1,1,0,0,0,0
+Kentucky,State Police Agencies,Cannabis Suppression Section,2,0,0,0,0,0,0
+Kentucky,State Police Agencies,Dry Ridge,1,0,0,0,0,0,0
+Kentucky,State Police Agencies,Elizabethtown,1,0,0,1,0,0,0
+Kentucky,State Police Agencies,Frankfort,2,0,0,0,0,0,0
+Kentucky,State Police Agencies,Harlan,1,0,0,0,0,0,0
+Kentucky,State Police Agencies,Hazard,3,0,0,0,0,0,0
+Kentucky,State Police Agencies,Henderson,1,0,0,0,0,0,0
+Kentucky,State Police Agencies,London,1,1,0,0,0,0,0
+Kentucky,State Police Agencies,Mayfield,2,0,0,1,1,0,0
+Kentucky,State Police Agencies,Morehead,3,0,0,0,0,0,0
+Kentucky,State Police Agencies,Pikeville,2,0,0,0,0,0,0
+Kentucky,State Police Agencies,Richmond,1,0,0,0,0,0,0
+Kentucky,State Police Agencies,West Drug Enforcement Branch,1,0,0,0,0,0,0
+Kentucky,Other Agencies,,11,3,0,1,1,0,0
+Kentucky,Other Agencies,Barren County Drug Task Force,3,0,0,0,0,0,0
+Kentucky,Other Agencies,Cincinnati NKentucky International Airport,1,0,0,0,0,0,0
+Kentucky,Other Agencies,Clark County School System,1,0,0,0,0,0,0
+Kentucky,Other Agencies,Fayette County Schools,0,2,0,1,0,0,0
+Kentucky,Other Agencies,Greater Hardin County Narcotics Task Force,1,0,0,0,0,0,0
+Kentucky,Other Agencies,Jefferson County School District,1,1,0,0,1,0,0
+Kentucky,Other Agencies,McCracken County Public Schools,1,0,0,0,0,0,0
+Kentucky,Other Agencies,South Central Kentucky Drug Task Force,3,0,0,0,0,0,0
+Louisiana,Total,,14,11,1,0,0,0,0
+Louisiana,Cities,,4,0,0,0,0,0,0
+Louisiana,Cities,Gretna,1,0,0,0,0,0,17923
+Louisiana,Cities,New Orleans,1,0,0,0,0,0,397447
+Louisiana,Cities,Shreveport,1,0,0,0,0,0,193937
+Louisiana,Cities,Vidalia,1,0,0,0,0,0,4015
+Louisiana,Universities and Colleges,,1,0,0,0,0,0,0
+Louisiana,Universities and Colleges,Louisiana State University Baton Rouge,1,0,0,0,0,0,31409
+Louisiana,Metropolitan Counties,,6,11,1,0,0,0,0
+Louisiana,Metropolitan Counties,Caddo,0,1,0,0,0,0,0
+Louisiana,Metropolitan Counties,Calcasieu,2,0,0,0,0,0,0
+Louisiana,Metropolitan Counties,Jefferson,1,0,0,0,0,0,0
+Louisiana,Metropolitan Counties,Lafourche,1,0,0,0,0,0,0
+Louisiana,Metropolitan Counties,St. Charles,0,10,0,0,0,0,0
+Louisiana,Metropolitan Counties,St. James,1,0,0,0,0,0,0
+Louisiana,Metropolitan Counties,St. John the Baptist,0,0,1,0,0,0,0
+Louisiana,Metropolitan Counties,St. Tammany,1,0,0,0,0,0,0
+Louisiana,Nonmetropolitan Counties,,3,0,0,0,0,0,0
+Louisiana,Nonmetropolitan Counties,Madison,2,0,0,0,0,0,0
+Louisiana,Nonmetropolitan Counties,Washington,1,0,0,0,0,0,0
+Maine,Total,,17,9,4,0,0,2,0
+Maine,Cities,,16,5,2,0,0,1,0
+Maine,Cities,Augusta,0,1,0,0,0,0,18394
+Maine,Cities,Biddeford,1,0,1,0,0,0,21378
+Maine,Cities,Lewiston,1,0,0,0,0,0,36067
+Maine,Cities,Old Orchard Beach,2,0,0,0,0,0,8842
+Maine,Cities,Portland,7,2,1,0,0,0,67079
+Maine,Cities,Rumford,1,0,0,0,0,0,5692
+Maine,Cities,Saco,1,2,0,0,0,0,19332
+Maine,Cities,Sanford,3,0,0,0,0,1,20963
+Maine,Universities and Colleges,,1,4,2,0,0,0,0
+Maine,Universities and Colleges,University of Southern Maine,1,4,2,0,0,0,7855
+Maine,Nonmetropolitan Counties,,0,0,0,0,0,1,0
+Maine,Nonmetropolitan Counties,Waldo,0,0,0,0,0,1,0
+Maryland,Total,,24,12,6,0,0,6,0
+Maryland,Cities,,4,1,0,0,0,1,0
+Maryland,Cities,Aberdeen,1,0,0,0,0,0,15720
+Maryland,Cities,Annapolis,1,0,0,0,0,0,39596
+Maryland,Cities,Baltimore,0,0,0,0,0,1,613217
+Maryland,Cities,Laurel,0,1,0,0,0,0,25997
+Maryland,Cities,Taneytown,1,0,0,0,0,0,6762
+Maryland,Cities,Westminster,1,0,0,0,0,0,18682
+Maryland,Universities and Colleges,,4,4,0,0,0,0,0
+Maryland,Universities and Colleges,University of Maryland:  ,,,,,,,0
+Maryland,Universities and Colleges,Baltimore County ,0,3,0,0,0,0,13640
+Maryland,Universities and Colleges,College Park,4,1,0,0,0,0,39083
+Maryland,Metropolitan Counties,,15,6,4,0,0,5,0
+Maryland,Metropolitan Counties,Anne Arundel County Police Department,5,1,2,0,0,1,0
+Maryland,Metropolitan Counties,Baltimore County Police Department,5,1,0,0,0,4,0
+Maryland,Metropolitan Counties,Harford,1,0,0,0,0,0,0
+Maryland,Metropolitan Counties,Howard County Police Department,0,1,0,0,0,0,0
+Maryland,Metropolitan Counties,Montgomery County Police Department,2,2,2,0,0,0,0
+Maryland,Metropolitan Counties,Prince George's County Police Department,1,0,0,0,0,0,0
+Maryland,Metropolitan Counties,Wicomico,1,1,0,0,0,0,0
+Maryland,State Police Agencies,,0,0,1,0,0,0,0
+Maryland,State Police Agencies,"State Police, Somerset County",0,0,1,0,0,0,0
+Maryland,Other Agencies,,1,1,1,0,0,0,0
+Maryland,Other Agencies,State Fire Marshal,0,1,0,0,0,0,0
+Maryland,Other Agencies,Transit Administration,1,0,1,0,0,0,0
+Massachusettsssachusetts,Total,,232,118,65,9,8,9,0
+Massachusettsssachusetts,Cities,,185,110,60,9,8,9,0
+Massachusetts,Cities,Acton,5,2,1,0,0,0,23937
+Massachusetts,Cities,Agawam,1,0,0,0,0,0,28839
+Massachusetts,Cities,Amherst,1,0,1,0,2,0,40313
+Massachusetts,Cities,Andover,1,2,0,0,0,0,35898
+Massachusetts,Cities,Arlington,2,7,1,1,0,3,45449
+Massachusetts,Cities,Ashburnham,1,0,0,0,0,0,6255
+Massachusetts,Cities,Attleboro,1,0,0,0,0,0,44607
+Massachusetts,Cities,Barnstable,2,0,0,0,0,0,44142
+Massachusetts,Cities,Belmont,1,0,0,0,0,0,26432
+Massachusetts,Cities,Beverly,1,0,0,0,0,0,41678
+Massachusetts,Cities,Bolton,1,0,0,0,0,0,5272
+Massachusetts,Cities,Boston,79,28,33,0,0,1,682903
+Massachusetts,Cities,Boxford,0,1,0,0,0,0,8333
+Massachusetts,Cities,Braintree,4,1,0,0,0,2,37579
+Massachusetts,Cities,Bridgewater,1,0,0,0,0,0,27769
+Massachusetts,Cities,Brockton,1,0,0,0,0,0,96016
+Massachusetts,Cities,Cambridge,5,3,2,0,0,0,111707
+Massachusetts,Cities,Chelmsford,0,1,1,0,0,0,35392
+Massachusetts,Cities,Chelsea,2,1,0,0,0,0,40514
+Massachusetts,Cities,Concord,0,0,0,1,0,0,20193
+Massachusetts,Cities,Danvers,0,2,0,1,0,0,28168
+Massachusetts,Cities,Dracut,0,4,1,0,0,0,31685
+Massachusetts,Cities,Duxbury,1,2,0,0,0,0,16085
+Massachusetts,Cities,Edgartown,0,0,1,0,0,0,4323
+Massachusetts,Cities,Everett,2,0,0,0,0,0,47185
+Massachusetts,Cities,Fitchburg,1,0,0,0,0,0,40445
+Massachusetts,Cities,Framingham,1,3,1,0,0,0,72153
+Massachusetts,Cities,Grafton,2,0,0,0,0,0,18763
+Massachusetts,Cities,Greenfield,1,0,0,0,0,0,17462
+Massachusetts,Cities,Haverhill,2,1,0,0,0,0,63244
+Massachusetts,Cities,Hingham,1,0,0,0,0,0,23392
+Massachusetts,Cities,Holland,0,0,0,0,1,0,2502
+Massachusetts,Cities,Hudson,0,2,0,0,0,0,19963
+Massachusetts,Cities,Lexington,0,1,0,0,0,0,33768
+Massachusetts,Cities,Lincoln,0,2,0,0,0,0,6860
+Massachusetts,Cities,Lowell,0,1,1,0,0,0,111294
+Massachusetts,Cities,Lynn,5,0,2,0,0,0,93140
+Massachusetts,Cities,Malden,3,2,0,0,0,0,61098
+Massachusetts,Cities,Manchester-by-the-Sea,0,0,0,1,0,0,5435
+Massachusetts,Cities,Mansfield,1,0,0,0,0,0,23847
+Massachusetts,Cities,Marblehead,0,1,0,0,0,0,20618
+Massachusetts,Cities,Mashpee,0,1,0,0,0,0,14272
+Massachusetts,Cities,Medford,5,1,0,1,0,0,57418
+Massachusetts,Cities,Medway,1,0,0,0,0,0,13407
+Massachusetts,Cities,Millbury,0,1,0,0,0,0,13626
+Massachusetts,Cities,Milton,0,1,1,0,0,0,27420
+Massachusetts,Cities,Nahant,0,1,0,0,0,0,3500
+Massachusetts,Cities,Natick,0,1,0,0,0,0,36705
+Massachusetts,Cities,New Bedford,0,0,1,0,0,0,95107
+Massachusetts,Cities,Newburyport,0,1,0,0,0,0,18092
+Massachusetts,Cities,Newton,3,7,2,0,0,0,89736
+Massachusetts,Cities,North Andover,1,0,0,0,0,0,31035
+Massachusetts,Cities,Northbridge,1,0,0,0,0,0,16711
+Massachusetts,Cities,Northfield,0,4,4,0,0,0,2966
+Massachusetts,Cities,Norwell,1,0,0,0,0,0,11150
+Massachusetts,Cities,Pittsfield,0,1,0,0,0,0,42546
+Massachusetts,Cities,Plymouth,0,1,0,0,0,0,59803
+Massachusetts,Cities,Provincetown,1,0,1,0,0,0,2993
+Massachusetts,Cities,Quincy,8,2,1,0,0,0,93966
+Massachusetts,Cities,Raynham,0,0,0,0,0,1,14048
+Massachusetts,Cities,Reading,0,1,1,0,0,0,26033
+Massachusetts,Cities,Revere,2,1,0,0,0,0,53425
+Massachusetts,Cities,Rutland,0,1,0,0,0,0,8687
+Massachusetts,Cities,Salem,8,5,0,0,0,0,43385
+Massachusetts,Cities,Salisbury,1,0,0,0,0,0,9517
+Massachusetts,Cities,Saugus,1,0,0,0,0,0,28241
+Massachusetts,Cities,Sharon,0,0,1,0,0,0,18419
+Massachusetts,Cities,Shrewsbury,0,1,0,0,0,0,36974
+Massachusetts,Cities,Somerville,6,2,1,1,0,0,82326
+Massachusetts,Cities,Southbridge,0,1,0,0,0,0,16860
+Massachusetts,Cities,Springfield,5,1,1,0,0,1,154562
+Massachusetts,Cities,Stoneham,0,0,0,1,0,0,22077
+Massachusetts,Cities,Stoughton,0,1,0,0,0,0,28678
+Massachusetts,Cities,Sudbury,0,1,0,0,0,0,19120
+Massachusetts,Cities,Swampscott,0,1,0,0,1,0,15016
+Massachusetts,Cities,Taunton,1,1,0,1,2,0,57047
+Massachusetts,Cities,Tewksbury,1,0,0,0,0,0,31245
+Massachusetts,Cities,Truro,1,0,0,0,0,0,2018
+Massachusetts,Cities,Walpole,1,0,0,0,0,0,25312
+Massachusetts,Cities,Waltham,1,1,1,1,2,0,63413
+Massachusetts,Cities,Ware,1,0,0,0,0,0,9907
+Massachusetts,Cities,Watertown,0,0,0,0,0,1,35586
+Massachusetts,Cities,Webster,1,0,0,0,0,0,16883
+Massachusetts,Cities,Westborough,0,1,0,0,0,0,19074
+Massachusetts,Cities,Worcester,5,1,0,0,0,0,185107
+Massachusetts,Cities,Wrentham,0,1,0,0,0,0,11838
+Massachusetts,Universities and Colleges,,37,8,4,0,0,0,0
+Massachusetts,Universities and Colleges,Amherst College,0,0,2,0,0,0,1849
+Massachusetts,Universities and Colleges,Boston College,5,0,0,0,0,0,14466
+Massachusetts,Universities and Colleges,Boston University,5,3,1,0,0,0,32695
+Massachusetts,Universities and Colleges,Clark University,0,2,0,0,0,0,3298
+Massachusetts,Universities and Colleges,College of the Holy Cross,0,0,1,0,0,0,2720
+Massachusetts,Universities and Colleges,Dean College,1,0,0,0,0,0,1339
+Massachusetts,Universities and Colleges,Framingham State University,8,0,0,0,0,0,5977
+Massachusetts,Universities and Colleges,Hampshire College,3,0,0,0,0,0,1321
+Massachusetts,Universities and Colleges,Harvard University,1,0,0,0,0,0,29908
+Massachusetts,Universities and Colleges,Massasoit Community College,0,1,0,0,0,0,7471
+Massachusetts,Universities and Colleges,Springfield Technical Community College,3,0,0,0,0,0,5622
+Massachusetts,Universities and Colleges,"University of Massachusetts, Amherst",1,0,0,0,0,0,30037
+Massachusetts,Universities and Colleges,Westfield State University,10,2,0,0,0,0,6335
+Massachusetts,Other Agencies,,10,0,1,0,0,0,0
+Massachusetts,Other Agencies,Massachusetts Bay Transportation Authority,,,,,,,0
+Massachusetts,Other Agencies,Middlesex County,1,0,0,0,0,0,0
+Massachusetts,Other Agencies,Suffolk County,4,0,0,0,0,0,0
+Massachusetts,Other Agencies,Massachusetts General Hospital,5,0,1,0,0,0,0
+Michigan,Total,,311,78,57,2,8,0,0
+Michigan,Cities,,212,53,44,1,4,0,0
+Michigan,Cities,Adrian,1,0,0,0,0,0,20598
+Michigan,Cities,Albion,0,1,0,0,0,0,8293
+Michigan,Cities,Ann Arbor,3,13,3,0,0,0,121930
+Michigan,Cities,Bangor,1,0,0,0,0,0,1839
+Michigan,Cities,Battle Creek,2,1,3,0,1,0,60852
+Michigan,Cities,Bay City,1,0,0,0,0,0,33286
+Michigan,Cities,Belleville,1,0,0,0,0,0,3832
+Michigan,Cities,Benton Harbor,1,0,1,0,0,0,9899
+Michigan,Cities,Berrien Springs-Oronoko Township,1,0,0,0,0,0,9039
+Michigan,Cities,Birmingham,0,1,0,0,0,0,21162
+Michigan,Cities,Blackman Township,23,0,0,0,0,0,36908
+Michigan,Cities,Boyne City,1,1,0,0,0,0,3741
+Michigan,Cities,Buena Vista Township,2,0,0,0,0,0,8084
+Michigan,Cities,Burton,4,0,0,0,0,0,28439
+Michigan,Cities,Cadillac,1,0,0,0,0,0,10473
+Michigan,Cities,Canton Township,1,1,0,0,0,0,90294
+Michigan,Cities,Carrollton Township,0,0,1,0,0,0,5728
+Michigan,Cities,Center Line,2,0,0,0,0,0,8304
+Michigan,Cities,Charlotte,2,0,0,0,0,0,9053
+Michigan,Cities,Cheboygan,1,0,0,0,0,0,4705
+Michigan,Cities,Chocolay Township,1,0,0,0,0,0,5948
+Michigan,Cities,Clio,1,0,0,0,0,0,2495
+Michigan,Cities,Dearborn,4,0,0,0,0,0,93889
+Michigan,Cities,Dearborn Heights,1,1,1,0,0,0,55454
+Michigan,Cities,Detroit,22,2,15,0,2,0,670792
+Michigan,Cities,East Grand Rapids,1,0,0,0,0,0,11812
+Michigan,Cities,East Lansing,2,1,0,0,0,0,48920
+Michigan,Cities,Eastpointe,1,0,0,0,0,0,32712
+Michigan,Cities,Ecorse,2,0,0,0,0,0,9132
+Michigan,Cities,Escanaba,0,1,0,0,0,0,12280
+Michigan,Cities,Farmington Hills,0,1,0,0,0,0,81359
+Michigan,Cities,Ferndale,4,0,1,0,0,0,20131
+Michigan,Cities,Flint,9,0,1,0,0,0,96605
+Michigan,Cities,Fremont,1,0,0,0,0,0,4020
+Michigan,Cities,Gaines Township,1,0,0,0,0,0,6139
+Michigan,Cities,Galesburg,2,0,0,0,0,0,2055
+Michigan,Cities,Gaylord,2,0,0,0,0,0,3697
+Michigan,Cities,Grand Blanc,1,0,0,0,0,0,7904
+Michigan,Cities,Grand Rapids,5,1,4,0,0,0,197868
+Michigan,Cities,Grandville,0,2,0,0,0,0,16108
+Michigan,Cities,Grosse Pointe,0,1,0,0,0,0,5151
+Michigan,Cities,Grosse Pointe Farms,0,0,1,0,0,0,9106
+Michigan,Cities,Hampton Township,1,0,0,0,0,0,9522
+Michigan,Cities,Hamtramck,1,1,0,0,0,0,21654
+Michigan,Cities,Hart,4,1,0,0,0,0,2080
+Michigan,Cities,Highland Park,2,0,0,0,0,0,10757
+Michigan,Cities,Holland,3,0,0,0,0,0,33613
+Michigan,Cities,Huntington Woods,0,1,0,0,0,0,6343
+Michigan,Cities,Huron Township,1,0,0,0,0,0,15636
+Michigan,Cities,Independence Township,1,0,0,0,0,0,36836
+Michigan,Cities,Inkster,1,0,0,0,0,0,24324
+Michigan,Cities,Ionia,1,0,1,0,0,0,11287
+Michigan,Cities,Iron River,1,0,0,0,0,0,2838
+Michigan,Cities,Lansing,10,0,2,0,0,0,116302
+Michigan,Cities,Lansing Township,0,0,1,0,0,0,8150
+Michigan,Cities,Lapeer,0,1,0,0,0,0,8735
+Michigan,Cities,Lincoln Park,2,0,0,0,0,0,36502
+Michigan,Cities,Lincoln Township,1,0,0,0,0,0,14460
+Michigan,Cities,Ludington,1,0,0,0,0,0,8068
+Michigan,Cities,Madison Heights,1,0,0,0,0,0,30152
+Michigan,Cities,Manistee,1,0,0,0,0,0,6030
+Michigan,Cities,Meridian Township,2,1,6,0,0,0,42878
+Michigan,Cities,Metro Police Authority of Genesee County,0,1,0,0,0,0,20001
+Michigan,Cities,Midland,1,0,0,0,0,0,42131
+Michigan,Cities,Millington,1,0,0,0,0,0,1016
+Michigan,Cities,Monroe,1,0,0,0,0,0,19868
+Michigan,Cities,Mount Pleasant,1,0,1,0,0,0,26366
+Michigan,Cities,Muskegon,4,0,0,0,0,0,38375
+Michigan,Cities,Northville Township,2,0,0,0,0,0,28751
+Michigan,Cities,Oak Park,0,2,0,0,0,0,29698
+Michigan,Cities,Ovid,1,0,0,0,0,0,1615
+Michigan,Cities,Perry,2,0,0,0,0,0,2094
+Michigan,Cities,Petoskey,1,0,0,0,0,0,5764
+Michigan,Cities,Pinckney,0,0,0,1,0,0,2463
+Michigan,Cities,Pittsfield Township,1,0,0,0,0,0,39061
+Michigan,Cities,Pontiac,2,0,0,0,0,0,59731
+Michigan,Cities,Portland,1,0,0,0,0,0,3943
+Michigan,Cities,Raisin Township,1,0,0,0,0,0,7619
+Michigan,Cities,Redford Township,1,0,0,0,0,0,46867
+Michigan,Cities,Rochester Hills,1,2,1,0,0,0,73827
+Michigan,Cities,Romulus,2,0,0,0,0,0,23174
+Michigan,Cities,Roosevelt Park,0,1,0,0,0,0,3826
+Michigan,Cities,Roseville,6,1,0,0,0,0,47651
+Michigan,Cities,Royal Oak,1,0,0,0,0,0,59303
+Michigan,Cities,Saginaw,3,0,0,0,0,0,48589
+Michigan,Cities,Saginaw Township,2,0,0,0,0,0,39319
+Michigan,Cities,Saline,1,0,0,0,0,0,9207
+Michigan,Cities,Sault Ste. Marie,1,0,0,0,0,0,13630
+Michigan,Cities,Schoolcraft,1,0,0,0,0,0,1571
+Michigan,Cities,Shelby Township,4,2,0,0,0,0,79217
+Michigan,Cities,Southfield,2,3,0,0,0,0,73324
+Michigan,Cities,Southgate,4,0,0,0,0,0,28939
+Michigan,Cities,Sparta,1,0,0,0,0,0,4370
+Michigan,Cities,St. Joseph,1,0,0,0,0,0,8276
+Michigan,Cities,Tawas,1,0,0,0,0,0,4522
+Michigan,Cities,Taylor,3,0,0,0,0,0,60882
+Michigan,Cities,Thomas Township,0,1,0,0,0,0,11450
+Michigan,Cities,Traverse City,0,3,1,0,0,0,15617
+Michigan,Cities,Trenton,0,1,0,0,0,0,18161
+Michigan,Cities,Troy,3,0,0,0,1,0,84086
+Michigan,Cities,Van Buren Township,2,0,0,0,0,0,27911
+Michigan,Cities,Warren,1,0,0,0,0,0,135303
+Michigan,Cities,Wayne,1,0,0,0,0,0,16857
+Michigan,Cities,West Bloomfield Township,0,3,0,0,0,0,65948
+Michigan,Cities,Westland,2,0,0,0,0,0,81158
+Michigan,Cities,White Lake Township,1,0,0,0,0,0,31016
+Michigan,Cities,Wyandotte,2,0,0,0,0,0,24817
+Michigan,Cities,Wyoming,4,0,0,0,0,0,76153
+Michigan,Universities and Colleges,,14,5,4,0,1,0,0
+Michigan,Universities and Colleges,Eastern Michigan University,3,0,0,0,0,0,21246
+Michigan,Universities and Colleges,Grand Valley State University,0,0,2,0,0,0,25460
+Michigan,Universities and Colleges,Michigan State University,1,0,0,0,0,0,50340
+Michigan,Universities and Colleges,Oakland University,1,0,0,0,0,0,20012
+Michigan,Universities and Colleges,Saginaw Valley State University,0,0,0,0,1,0,9105
+Michigan,Universities and Colleges,University of Michigan:  ,,,,,,,0
+Michigan,Universities and Colleges,Ann Arbor ,9,4,2,0,0,0,44718
+Michigan,Universities and Colleges,Dearborn,0,1,0,0,0,0,9131
+Michigan,Metropolitan Counties,,15,10,2,0,0,0,0
+Michigan,Metropolitan Counties,Eaton,1,0,0,0,0,0,0
+Michigan,Metropolitan Counties,Genesee,2,2,0,0,0,0,0
+Michigan,Metropolitan Counties,Jackson,0,2,0,0,0,0,0
+Michigan,Metropolitan Counties,Kent,3,0,0,0,0,0,0
+Michigan,Metropolitan Counties,Lapeer,0,1,0,0,0,0,0
+Michigan,Metropolitan Counties,Midland,1,0,0,0,0,0,0
+Michigan,Metropolitan Counties,Monroe,0,1,0,0,0,0,0
+Michigan,Metropolitan Counties,Muskegon,0,0,1,0,0,0,0
+Michigan,Metropolitan Counties,Ottawa,1,1,1,0,0,0,0
+Michigan,Metropolitan Counties,Saginaw,0,1,0,0,0,0,0
+Michigan,Metropolitan Counties,Van Buren,3,2,0,0,0,0,0
+Michigan,Metropolitan Counties,Washtenaw,4,0,0,0,0,0,0
+Michigan,Nonmetropolitan Counties,,17,3,4,0,2,0,0
+Michigan,Nonmetropolitan Counties,Allegan,1,0,0,0,0,0,0
+Michigan,Nonmetropolitan Counties,Benzie,3,0,0,0,0,0,0
+Michigan,Nonmetropolitan Counties,Charlevoix,0,0,1,0,0,0,0
+Michigan,Nonmetropolitan Counties,Chippewa,1,1,1,0,0,0,0
+Michigan,Nonmetropolitan Counties,Clare,1,0,0,0,0,0,0
+Michigan,Nonmetropolitan Counties,Emmet,1,0,0,0,0,0,0
+Michigan,Nonmetropolitan Counties,Grand Traverse,2,0,0,0,0,0,0
+Michigan,Nonmetropolitan Counties,Gratiot,1,1,1,0,0,0,0
+Michigan,Nonmetropolitan Counties,Huron,1,0,0,0,0,0,0
+Michigan,Nonmetropolitan Counties,Mackinac,1,0,0,0,0,0,0
+Michigan,Nonmetropolitan Counties,Menominee,2,1,0,0,0,0,0
+Michigan,Nonmetropolitan Counties,Missaukee,1,0,0,0,0,0,0
+Michigan,Nonmetropolitan Counties,Newaygo,0,0,0,0,1,0,0
+Michigan,Nonmetropolitan Counties,Ontonagon,0,0,1,0,0,0,0
+Michigan,Nonmetropolitan Counties,Otsego,0,0,0,0,1,0,0
+Michigan,Nonmetropolitan Counties,Presque Isle,2,0,0,0,0,0,0
+Michigan,State Police Agencies,,50,6,3,1,1,0,0
+Michigan,State Police Agencies,State Police:,,,,,,,0
+Michigan,State Police Agencies,Alpena County,2,0,0,0,0,0,0
+Michigan,State Police Agencies,Barry County,3,0,0,0,0,0,0
+Michigan,State Police Agencies,Bay County,2,0,1,0,0,0,0
+Michigan,State Police Agencies,Berrien County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Chippewa County,2,0,0,0,0,0,0
+Michigan,State Police Agencies,Clare County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Crawford County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Eaton County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Genesee County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Gogebic County,2,0,0,0,0,0,0
+Michigan,State Police Agencies,Isabella County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Jackson County,3,0,1,0,0,0,0
+Michigan,State Police Agencies,Kalamazoo County,2,0,0,0,0,0,0
+Michigan,State Police Agencies,Kent County,3,0,0,0,0,0,0
+Michigan,State Police Agencies,Lapeer County,1,1,0,0,0,0,0
+Michigan,State Police Agencies,Livingston County,4,2,1,0,0,0,0
+Michigan,State Police Agencies,Macomb County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Mason County,0,1,0,0,0,0,0
+Michigan,State Police Agencies,Monroe County,2,0,0,0,0,0,0
+Michigan,State Police Agencies,Montcalm County,2,0,0,0,0,0,0
+Michigan,State Police Agencies,Muskegon County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Oakland County,2,0,0,1,0,0,0
+Michigan,State Police Agencies,Oceana County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Osceola County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Saginaw County,2,1,0,0,0,0,0
+Michigan,State Police Agencies,Shiawassee County,3,0,0,0,0,0,0
+Michigan,State Police Agencies,St. Joseph County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Van Buren County,0,1,0,0,1,0,0
+Michigan,State Police Agencies,Washtenaw County,2,0,0,0,0,0,0
+Michigan,State Police Agencies,Wayne County,1,0,0,0,0,0,0
+Michigan,State Police Agencies,Wexford County,1,0,0,0,0,0,0
+Michigan,Tribal Agencies,,3,0,0,0,0,0,0
+Michigan,Tribal Agencies,Little River Band of Ottawa Indians,2,0,0,0,0,0,0
+Michigan,Tribal Agencies,Nottawaseppi Huron Band of Potawatomi,1,0,0,0,0,0,0
+Michigan,Other Agencies,,0,1,0,0,0,0,0
+Michigan,Other Agencies,Wayne County Airport,0,1,0,0,0,0,0
+Minnesota,Total,,92,34,22,0,0,0,0
+Minnesota,Cities,,80,31,21,0,0,0,0
+Minnesota,Cities,Apple Valley,1,0,0,0,0,0,52439
+Minnesota,Cities,Belle Plaine,1,0,0,0,0,0,7066
+Minnesota,Cities,Blaine,3,0,0,0,0,0,63857
+Minnesota,Cities,Brooklyn Park,5,0,1,0,0,0,80347
+Minnesota,Cities,Burnsville,1,0,1,0,0,0,61442
+Minnesota,Cities,Clearbrook,1,0,0,0,0,0,522
+Minnesota,Cities,Coon Rapids,0,1,0,0,0,0,62495
+Minnesota,Cities,Crookston,0,1,0,0,0,0,7789
+Minnesota,Cities,Duluth,1,0,1,0,0,0,86306
+Minnesota,Cities,Eden Prairie,1,0,0,0,0,0,64429
+Minnesota,Cities,Edina,0,1,0,0,0,0,51923
+Minnesota,Cities,Forest Lake,0,0,1,0,0,0,19804
+Minnesota,Cities,Fridley,0,0,1,0,0,0,27516
+Minnesota,Cities,Goodhue,1,0,0,0,0,0,1186
+Minnesota,Cities,Inver Grove Heights,4,1,0,0,0,0,35254
+Minnesota,Cities,Lakeville2,4,2,1,0,0,0,62958
+Minnesota,Cities,Mankato,1,0,0,0,0,0,42047
+Minnesota,Cities,Maple Grove,2,2,0,0,0,0,70966
+Minnesota,Cities,Maplewood,5,0,0,0,0,0,40689
+Minnesota,Cities,Minneapolis,16,7,8,0,0,0,418971
+Minnesota,Cities,Moorhead,2,0,1,0,0,0,42999
+Minnesota,Cities,New Brighton,1,0,0,0,0,0,22772
+Minnesota,Cities,Northfield,1,0,0,0,0,0,20512
+Minnesota,Cities,Oakdale,1,0,0,0,0,0,28181
+Minnesota,Cities,Plymouth,0,1,0,0,0,0,78356
+Minnesota,Cities,Rochester,10,3,0,0,0,0,115228
+Minnesota,Cities,Roseville,0,0,1,0,0,0,36196
+Minnesota,Cities,Sartell,0,0,1,0,0,0,17353
+Minnesota,Cities,Savage,1,0,1,0,0,0,31491
+Minnesota,Cities,Spring Lake Park,1,0,0,0,0,0,6482
+Minnesota,Cities,St. Anthony,1,0,0,0,0,0,9159
+Minnesota,Cities,St. Cloud,1,1,0,0,0,0,67911
+Minnesota,Cities,Stillwater,0,1,0,0,0,0,19394
+Minnesota,Cities,St. Louis Park2,3,4,2,0,0,0,49355
+Minnesota,Cities,St. Paul,11,5,1,0,0,0,306696
+Minnesota,Cities,Willmar,0,1,0,0,0,0,19553
+Minnesota,Universities and Colleges,,3,2,0,0,0,0,0
+Minnesota,Universities and Colleges,"University of Minnesota, Twin Cities",3,2,0,0,0,0,51579
+Minnesota,Metropolitan Counties,,9,0,1,0,0,0,0
+Minnesota,Metropolitan Counties,Benton,1,0,0,0,0,0,0
+Minnesota,Metropolitan Counties,Carver,5,0,0,0,0,0,0
+Minnesota,Metropolitan Counties,Ramsey,2,0,0,0,0,0,0
+Minnesota,Metropolitan Counties,Wright,1,0,1,0,0,0,0
+Minnesota,Nonmetropolitan Counties,,0,1,0,0,0,0,0
+Minnesota,Nonmetropolitan Counties,Otter Tail,0,1,0,0,0,0,0
+Mississippi,Total,,1,0,0,0,0,0,0
+Mississippi,Cities,,1,0,0,0,0,0,0
+Mississippi,Cities,Gulfport,1,0,0,0,0,0,72792
+Missouri,Total,,79,11,13,0,1,1,0
+Missouri,Cities,,72,7,13,0,1,1,0
+Missouri,Cities,Blue Springs,2,0,0,0,0,0,54727
+Missouri,Cities,Branson,1,0,0,0,0,0,11571
+Missouri,Cities,Camdenton,0,0,1,0,0,0,3980
+Missouri,Cities,Cameron,3,0,0,0,0,0,9765
+Missouri,Cities,Columbia,1,0,0,0,0,0,122585
+Missouri,Cities,Crystal City,0,0,1,0,0,0,4817
+Missouri,Cities,Festus,0,0,1,0,0,0,12187
+Missouri,Cities,Gladstone,2,1,0,0,0,0,27390
+Missouri,Cities,Grain Valley,2,0,0,0,0,0,13825
+Missouri,Cities,Grandview,1,0,0,0,0,0,25308
+Missouri,Cities,Independence,4,0,0,0,0,0,117055
+Missouri,Cities,Joplin,0,0,1,0,0,0,52412
+Missouri,Cities,Kansas City,34,5,6,0,1,1,484948
+Missouri,Cities,Lee's Summit,1,0,0,0,0,0,96855
+Missouri,Cities,Macon,1,0,0,0,0,0,5360
+Missouri,Cities,Maryland Heights,1,0,0,0,0,0,27083
+Missouri,Cities,Normandy,1,0,0,0,0,0,7544
+Missouri,Cities,North Kansas City,1,0,0,0,0,0,4407
+Missouri,Cities,Overland,1,0,0,0,0,0,15760
+Missouri,Cities,Rolla,2,0,3,0,0,0,20147
+Missouri,Cities,St. Louis,11,0,0,0,0,0,310284
+Missouri,Cities,University City,1,0,0,0,0,0,34601
+Missouri,Cities,Warrenton,1,0,0,0,0,0,8168
+Missouri,Cities,Wentzville,1,0,0,0,0,0,38876
+Missouri,Cities,Willard,0,1,0,0,0,0,5452
+Missouri,Universities and Colleges,,2,2,0,0,0,0,0
+Missouri,Universities and Colleges,"St. Louis Community College, Meramec",2,1,0,0,0,0,19052
+Missouri,Universities and Colleges,"University of Missouri, Columbia",0,1,0,0,0,0,33239
+Missouri,Metropolitan Counties,,3,2,0,0,0,0,0
+Missouri,Metropolitan Counties,Greene,2,0,0,0,0,0,0
+Missouri,Metropolitan Counties,St. Louis County Police Department,0,2,0,0,0,0,0
+Missouri,Metropolitan Counties,Warren,1,0,0,0,0,0,0
+Missouri,Nonmetropolitan Counties,,2,0,0,0,0,0,0
+Missouri,Nonmetropolitan Counties,Laclede,1,0,0,0,0,0,0
+Missouri,Nonmetropolitan Counties,Taney,1,0,0,0,0,0,0
+Montana,Total,,9,4,2,0,0,0,0
+Montana,Cities,,3,2,0,0,0,0,0
+Montana,Cities,Bozeman,0,2,0,0,0,0,46728
+Montana,Cities,Kalispell,2,0,0,0,0,0,23243
+Montana,Cities,Whitefish,1,0,0,0,0,0,7446
+Montana,Universities and Colleges,,2,0,0,0,0,0,0
+Montana,Universities and Colleges,Montana State University,1,0,0,0,0,0,16359
+Montana,Universities and Colleges,University of Montana,1,0,0,0,0,0,12419
+Montana,Metropolitan Counties,,3,1,1,0,0,0,0
+Montana,Metropolitan Counties,Cascade,1,0,0,0,0,0,0
+Montana,Metropolitan Counties,Missoula,1,1,0,0,0,0,0
+Montana,Metropolitan Counties,Yellowstone,1,0,1,0,0,0,0
+Montana,Nonmetropolitan Counties,,1,1,1,0,0,0,0
+Montana,Nonmetropolitan Counties,Deer Lodge,0,0,1,0,0,0,0
+Montana,Nonmetropolitan Counties,Gallatin,1,0,0,0,0,0,0
+Montana,Nonmetropolitan Counties,Ravalli,0,1,0,0,0,0,0
+Nebraska,Total,,34,6,4,1,0,0,0
+Nebraska,Cities,,29,6,4,0,0,0,0
+Nebraska,Cities,Grand Island,1,0,1,0,0,0,51980
+Nebraska,Cities,Kearney,1,0,0,0,0,0,33960
+Nebraska,Cities,Lincoln,21,5,3,0,0,0,284063
+Nebraska,Cities,Norfolk,2,0,0,0,0,0,24364
+Nebraska,Cities,Omaha,2,1,0,0,0,0,449388
+Nebraska,Cities,South Sioux City,2,0,0,0,0,0,13078
+Nebraska,Metropolitan Counties,,5,0,0,0,0,0,0
+Nebraska,Metropolitan Counties,Merrick,4,0,0,0,0,0,0
+Nebraska,Metropolitan Counties,Saunders,1,0,0,0,0,0,0
+Nebraska,Nonmetropolitan Counties,,0,0,0,1,0,0,0
+Nebraska,Nonmetropolitan Counties,Perkins,0,0,0,1,0,0,0
+Nevada,Total,,2,0,3,0,0,0,0
+Nevada,Cities,,1,0,3,0,0,0,0
+Nevada,Cities,Henderson,1,0,0,0,0,0,299285
+Nevada,Cities,Reno,0,0,3,0,0,0,248531
+Nevada,Other Agencies,,1,0,0,0,0,0,0
+Nevada,Other Agencies,Clark County School District,1,0,0,0,0,0,0
+New Hampshire,Total,,8,4,1,0,0,0,0
+New Hampshire,Cities,,7,4,0,0,0,0,0
+New Hampshire,Cities,Concord,1,0,0,0,0,0,42942
+New Hampshire,Cities,Dover,1,0,0,0,0,0,31344
+New Hampshire,Cities,Epping,0,1,0,0,0,0,6978
+New Hampshire,Cities,Hudson,1,0,0,0,0,0,25212
+New Hampshire,Cities,Keene,0,1,0,0,0,0,23386
+New Hampshire,Cities,Laconia,1,0,0,0,0,0,16616
+New Hampshire,Cities,Manchester,0,1,0,0,0,0,110655
+New Hampshire,Cities,Pelham,1,0,0,0,0,0,13513
+New Hampshire,Cities,Plymouth,0,1,0,0,0,0,6303
+New Hampshire,Cities,Rye,1,0,0,0,0,0,5425
+New Hampshire,Cities,Seabrook,1,0,0,0,0,0,8816
+New Hampshire,Universities and Colleges,,0,0,1,0,0,0,0
+New Hampshire,Universities and Colleges,University of New Hampshire,0,0,1,0,0,0,15188
+New Hampshire,State Police Agencies,,1,0,0,0,0,0,0
+New Hampshire,State Police Agencies,"State Police, Grafton County",1,0,0,0,0,0,0
+New Jersey,Total,,260,180,51,4,0,0,0
+New Jersey,Cities,,241,163,41,3,0,0,0
+New Jersey,Cities,Aberdeen Township,2,3,1,0,0,0,18403
+New Jersey,Cities,Belmar,0,0,1,0,0,0,5666
+New Jersey,Cities,Belvidere,1,0,0,0,0,0,2589
+New Jersey,Cities,Bergenfield,0,2,0,0,0,0,27891
+New Jersey,Cities,Berkeley Heights Township,1,0,0,0,0,0,13654
+New Jersey,Cities,Berkeley Township,0,1,0,0,0,0,42036
+New Jersey,Cities,Boonton,0,1,0,0,0,0,8421
+New Jersey,Cities,Bradley Beach,1,1,0,0,0,0,4236
+New Jersey,Cities,Brick Township,0,2,0,0,0,0,75566
+New Jersey,Cities,Bridgeton,1,0,0,0,0,0,24937
+New Jersey,Cities,Bridgewater Township,0,1,0,0,0,0,45417
+New Jersey,Cities,Brigantine,0,1,0,0,0,0,8976
+New Jersey,Cities,Burlington Township,1,0,0,0,0,0,22772
+New Jersey,Cities,Carteret,1,0,0,0,0,0,24283
+New Jersey,Cities,Chatham,0,1,0,0,0,0,9011
+New Jersey,Cities,Chatham Township,1,0,0,0,0,0,10515
+New Jersey,Cities,Cinnaminson Township,2,3,1,0,0,0,16696
+New Jersey,Cities,Collingswood,1,0,0,0,0,0,14080
+New Jersey,Cities,Colts Neck Township,2,0,0,0,0,0,9936
+New Jersey,Cities,Deal,0,2,0,0,0,0,730
+New Jersey,Cities,Delanco Township,2,0,0,0,0,0,4528
+New Jersey,Cities,Dover,1,0,1,0,0,0,18339
+New Jersey,Cities,Eastampton Township,1,0,0,0,0,0,5962
+New Jersey,Cities,East Brunswick Township,11,13,0,0,0,0,49019
+New Jersey,Cities,East Hanover Township,2,1,0,0,0,0,11284
+New Jersey,Cities,East Orange,1,1,0,0,0,0,65160
+New Jersey,Cities,East Windsor Township,1,0,0,0,0,0,27571
+New Jersey,Cities,Eatontown,0,0,1,0,0,0,12258
+New Jersey,Cities,Edison Township,6,3,1,0,0,0,102699
+New Jersey,Cities,Egg Harbor Township,1,0,0,0,0,0,43515
+New Jersey,Cities,Elizabeth,0,1,0,0,0,0,129726
+New Jersey,Cities,Elmwood Park,1,0,0,0,0,0,20515
+New Jersey,Cities,Emerson,0,1,0,0,0,0,7747
+New Jersey,Cities,Englewood,8,1,0,0,0,0,28795
+New Jersey,Cities,Evesham Township,10,7,0,1,0,0,45314
+New Jersey,Cities,Fair Lawn,0,0,1,0,0,0,33759
+New Jersey,Cities,Fort Lee,1,0,1,0,0,0,38095
+New Jersey,Cities,Franklin Lakes,1,5,0,0,0,0,10939
+New Jersey,Cities,"Franklin Township, Somerset County",1,0,0,0,0,0,67463
+New Jersey,Cities,Freehold Borough,1,0,0,0,0,0,11865
+New Jersey,Cities,Freehold Township,2,0,1,0,0,0,35531
+New Jersey,Cities,Hackensack,4,4,1,0,0,0,45226
+New Jersey,Cities,Hackettstown,1,0,0,0,0,0,9520
+New Jersey,Cities,Haddonfield,1,0,0,0,0,0,11445
+New Jersey,Cities,Haddon Township,2,0,0,0,0,0,14731
+New Jersey,Cities,"Hamilton Township, Mercer County",5,0,0,0,0,0,88723
+New Jersey,Cities,Hanover Township,1,4,0,0,0,0,14904
+New Jersey,Cities,Harrison Township,0,0,1,0,0,0,13128
+New Jersey,Cities,Haworth,0,2,0,0,0,0,3491
+New Jersey,Cities,High Bridge,0,1,0,0,0,0,3524
+New Jersey,Cities,Highland Park,2,2,0,0,0,0,14287
+New Jersey,Cities,Hightstown,2,0,0,0,0,0,5522
+New Jersey,Cities,Hillsborough Township,3,1,0,0,0,0,40369
+New Jersey,Cities,Hoboken,3,3,0,0,0,0,55348
+New Jersey,Cities,Hopewell Township,1,0,2,0,0,0,18633
+New Jersey,Cities,Howell Township,7,4,0,0,0,0,52432
+New Jersey,Cities,Interlaken,0,0,1,0,0,0,798
+New Jersey,Cities,Jefferson Township,1,0,0,0,0,0,21505
+New Jersey,Cities,Jersey City,0,0,1,0,0,0,267906
+New Jersey,Cities,Keansburg,8,1,1,0,0,0,9782
+New Jersey,Cities,Kinnelon,1,0,0,0,0,0,10275
+New Jersey,Cities,Lakewood Township,7,15,0,0,0,0,102759
+New Jersey,Cities,"Lawrence Township, Mercer County",0,2,0,0,0,0,32929
+New Jersey,Cities,Lindenwold,0,0,1,0,0,0,17516
+New Jersey,Cities,Livingston Township,2,1,0,0,0,0,29987
+New Jersey,Cities,Lodi,2,0,3,0,0,0,24981
+New Jersey,Cities,Lopatcong Township,0,1,0,0,0,0,8298
+New Jersey,Cities,Lumberton Township,0,1,0,0,0,0,12286
+New Jersey,Cities,Madison,1,2,0,0,0,0,16175
+New Jersey,Cities,Magnolia,2,0,0,0,0,0,4310
+New Jersey,Cities,Manalapan Township,4,4,0,0,0,0,40177
+New Jersey,Cities,Manasquan,2,0,0,0,0,0,5804
+New Jersey,Cities,Manchester Township,1,0,0,0,0,0,43916
+New Jersey,Cities,"Mansfield Township, Warren County",0,1,0,0,0,0,7435
+New Jersey,Cities,Mantua Township,1,0,0,0,0,0,15123
+New Jersey,Cities,Maple Shade Township,1,2,0,0,0,0,18797
+New Jersey,Cities,Maplewood Township,0,1,0,0,0,0,24863
+New Jersey,Cities,Medford Lakes,1,1,0,0,0,0,4038
+New Jersey,Cities,Medford Township,3,2,2,0,0,0,23503
+New Jersey,Cities,Metuchen,0,0,0,1,0,0,13981
+New Jersey,Cities,Middlesex Borough,1,1,0,0,0,0,13897
+New Jersey,Cities,Millburn Township,0,1,0,0,0,0,20421
+New Jersey,Cities,Monmouth Beach,0,1,0,0,0,0,3213
+New Jersey,Cities,"Monroe Township, Middlesex County",0,3,0,0,0,0,45722
+New Jersey,Cities,Montclair,2,0,0,0,0,0,39029
+New Jersey,Cities,Montvale,0,1,0,0,0,0,8653
+New Jersey,Cities,Moorestown Township,4,1,0,0,0,0,20534
+New Jersey,Cities,Mount Laurel Township,0,0,1,0,0,0,41712
+New Jersey,Cities,Mount Olive Township,1,0,1,0,0,0,29410
+New Jersey,Cities,Mullica Township,1,0,0,0,0,0,6024
+New Jersey,Cities,Neptune Township,6,0,1,0,0,0,27757
+New Jersey,Cities,New Brunswick,1,0,2,0,0,0,57481
+New Jersey,Cities,Newton,0,1,1,0,0,0,7874
+New Jersey,Cities,North Bergen Township,0,1,0,0,0,0,63490
+New Jersey,Cities,Northfield,1,0,0,0,0,0,8376
+New Jersey,Cities,Oakland,0,1,0,0,0,0,13243
+New Jersey,Cities,"Ocean Township, Monmouth County",3,3,0,0,0,0,26637
+New Jersey,Cities,Old Bridge Township,2,0,0,0,0,0,67162
+New Jersey,Cities,Old Tappan,0,1,0,0,0,0,6069
+New Jersey,Cities,Oradell,0,2,0,0,0,0,8291
+New Jersey,Cities,Palmyra,1,0,1,0,0,0,7217
+New Jersey,Cities,Paramus,1,1,0,0,0,0,27075
+New Jersey,Cities,Passaic,1,1,1,0,0,0,71053
+New Jersey,Cities,Paulsboro,1,0,0,0,0,0,5959
+New Jersey,Cities,Pennsville Township,1,0,0,0,0,0,12564
+New Jersey,Cities,Pequannock Township,0,1,0,0,0,0,15472
+New Jersey,Cities,Piscataway Township,0,1,0,0,0,0,58109
+New Jersey,Cities,Plainfield,0,1,0,0,0,0,50983
+New Jersey,Cities,Point Pleasant,0,1,0,0,0,0,18696
+New Jersey,Cities,Pompton Lakes,1,0,0,0,0,0,11176
+New Jersey,Cities,Princeton,8,7,0,0,0,0,31845
+New Jersey,Cities,Ramsey,1,1,0,0,0,0,15273
+New Jersey,Cities,Randolph Township,4,4,0,0,0,0,25950
+New Jersey,Cities,Ridgewood,0,4,0,0,0,0,25729
+New Jersey,Cities,River Edge,0,1,0,0,0,0,11744
+New Jersey,Cities,Robbinsville Township,3,0,0,0,0,0,14446
+New Jersey,Cities,Roselle Park,1,0,0,0,0,0,13747
+New Jersey,Cities,Shrewsbury,0,1,0,0,0,0,4178
+New Jersey,Cities,South Brunswick Township,1,2,1,0,0,0,46280
+New Jersey,Cities,South Orange Village,4,1,1,0,0,0,16407
+New Jersey,Cities,South Plainfield,1,0,0,0,0,0,24458
+New Jersey,Cities,South River,1,0,0,0,0,0,16399
+New Jersey,Cities,"Springfield Township, Union County",1,0,0,0,0,0,17805
+New Jersey,Cities,Stone Harbor,0,0,2,0,0,0,827
+New Jersey,Cities,Summit,0,1,0,0,0,0,22195
+New Jersey,Cities,Teaneck Township,2,1,0,0,0,0,41377
+New Jersey,Cities,Tenafly,0,1,0,0,0,0,14960
+New Jersey,Cities,Toms River Township,1,3,0,0,0,0,92543
+New Jersey,Cities,Trenton,0,1,0,0,0,0,84231
+New Jersey,Cities,Union City,1,0,0,0,0,0,70053
+New Jersey,Cities,Union Township,1,0,0,0,0,0,59051
+New Jersey,Cities,Verona,1,0,0,0,0,0,13584
+New Jersey,Cities,Vineland,8,0,1,0,0,0,60477
+New Jersey,Cities,Voorhees Township,1,0,0,0,0,0,29532
+New Jersey,Cities,"Washington Township, Gloucester County",1,0,1,0,0,0,48088
+New Jersey,Cities,"Washington Township, Warren County",1,0,0,0,0,0,6429
+New Jersey,Cities,Waterford Township,2,0,0,0,0,0,10817
+New Jersey,Cities,Weehawken Township,2,0,0,0,0,0,15683
+New Jersey,Cities,Westampton Township,2,0,0,0,0,0,8775
+New Jersey,Cities,West Long Branch,1,0,1,0,0,0,7944
+New Jersey,Cities,West New York,1,0,0,0,0,0,54156
+New Jersey,Cities,West Windsor Township,1,1,0,0,0,0,28495
+New Jersey,Cities,Wildwood,1,0,0,0,0,0,5087
+New Jersey,Cities,Willingboro Township,0,2,0,0,0,0,31726
+New Jersey,Cities,Woodbridge Township,0,2,0,0,0,0,102129
+New Jersey,Cities,Woodbury,27,1,4,1,0,0,9970
+New Jersey,Universities and Colleges,,12,15,10,0,0,0,0
+New Jersey,Universities and Colleges,Montclair State University,3,1,1,0,0,0,20987
+New Jersey,Universities and Colleges,Princeton University,3,0,0,0,0,0,8181
+New Jersey,Universities and Colleges,Rutgers University:  ,,,,,,,0
+New Jersey,Universities and Colleges,Newark,0,2,0,0,0,0,12321
+New Jersey,Universities and Colleges,New Brunswick,4,12,9,0,0,0,50146
+New Jersey,Universities and Colleges,Stockton University,2,0,0,0,0,0,8728
+New Jersey,Metropolitan Counties,,3,1,0,0,0,0,0
+New Jersey,Metropolitan Counties,Bergen,1,1,0,0,0,0,0
+New Jersey,Metropolitan Counties,Cape May,1,0,0,0,0,0,0
+New Jersey,Metropolitan Counties,Warren,1,0,0,0,0,0,0
+New Jersey,State Police Agencies,,4,1,0,1,0,0,0
+New Jersey,State Police Agencies,New Jersey State Police,4,1,0,1,0,0,0
+New Mexico,Total,,4,2,1,0,0,0,0
+New Mexico,Cities,,4,2,1,0,0,0,0
+New Mexico,Cities,Albuquerque,4,2,1,0,0,0,561375
+New York,Total,,189,284,64,1,0,14,0
+New York,Cities,,127,194,55,1,0,13,0
+New York,Cities,Albany,4,0,0,0,0,0,98174
+New York,Cities,Ardsley Village,0,1,0,0,0,0,4663
+New York,Cities,Auburn,1,0,0,0,0,0,26686
+New York,Cities,Brighton Town,0,1,0,0,0,0,36596
+New York,Cities,Buffalo,6,0,2,0,0,0,256169
+New York,Cities,Clarkstown Town,0,2,0,0,0,0,81810
+New York,Cities,Croton-on-Hudson Village,0,0,0,1,0,0,8271
+New York,Cities,Fishkill Town,1,0,0,0,0,0,21532
+New York,Cities,Fulton City,1,0,0,0,0,0,11321
+New York,Cities,Gates Town,1,0,0,0,0,0,28723
+New York,Cities,Greenburgh Town,0,1,0,0,0,1,45923
+New York,Cities,Hamburg Town,1,0,0,0,0,0,46040
+New York,Cities,Hastings-on-Hudson Village,0,3,0,0,0,0,7987
+New York,Cities,Hempstead Village,0,0,1,0,0,0,55807
+New York,Cities,Ilion Village,1,0,0,0,0,0,7801
+New York,Cities,Ithaca,2,0,0,0,0,0,30875
+New York,Cities,Johnson City Village,1,0,0,0,0,0,14595
+New York,Cities,Liberty Village,1,0,0,0,0,0,4050
+New York,Cities,Middletown,0,1,0,0,0,0,27607
+New York,Cities,Monroe Village,2,0,0,0,0,0,8636
+New York,Cities,Mount Vernon,2,0,0,0,0,0,68507
+New York,Cities,New Castle Town,1,1,0,0,0,0,18189
+New York,Cities,New Paltz Town and Village,0,1,0,0,0,0,14125
+New York,Cities,New Rochelle,4,1,0,0,0,0,79960
+New York,Cities,New York,88,173,46,0,0,11,8616333
+New York,Cities,Niagara Falls,3,0,0,0,0,0,48385
+New York,Cities,Port Jervis,0,0,1,0,0,0,8527
+New York,Cities,Poughkeepsie,1,0,0,0,0,1,30159
+New York,Cities,Ramapo Town,0,4,0,0,0,0,94019
+New York,Cities,Rochester,1,0,2,0,0,0,208591
+New York,Cities,Schodack Town,1,0,0,0,0,0,11685
+New York,Cities,Scotia Village,0,0,1,0,0,0,7651
+New York,Cities,Southampton Town,1,1,1,0,0,0,50987
+New York,Cities,Spring Valley Village,0,1,0,0,0,0,32795
+New York,Cities,Troy,0,0,1,0,0,0,49644
+New York,Cities,Utica,0,1,0,0,0,0,60395
+New York,Cities,White Plains,1,0,0,0,0,0,58461
+New York,Cities,Yonkers,2,2,0,0,0,0,201554
+New York,Universities and Colleges,,5,7,2,0,0,0,0
+New York,Universities and Colleges,State University of New York Police:  ,,,,,,,0
+New York,Universities and Colleges,Buffalo State College,0,0,1,0,0,0,9475
+New York,Universities and Colleges,Cobleskill,1,0,0,0,0,0,2287
+New York,Universities and Colleges,Delhi,0,1,0,0,0,0,3511
+New York,Universities and Colleges,Geneseo,1,0,1,0,0,0,5602
+New York,Universities and Colleges,Morrisville,2,3,0,0,0,0,3003
+New York,Universities and Colleges,New Paltz,0,2,0,0,0,0,7628
+New York,Universities and Colleges,Plattsburgh,1,1,0,0,0,0,5520
+New York,Metropolitan Counties,,18,54,3,0,0,0,0
+New York,Metropolitan Counties,Nassau,9,28,0,0,0,0,0
+New York,Metropolitan Counties,Putnam,1,0,0,0,0,0,0
+New York,Metropolitan Counties,Suffolk County Police Department,7,26,3,0,0,0,0
+New York,Metropolitan Counties,Warren,1,0,0,0,0,0,0
+New York,Nonmetropolitan Counties,,1,1,0,0,0,0,0
+New York,Nonmetropolitan Counties,Cattaraugus,1,0,0,0,0,0,0
+New York,Nonmetropolitan Counties,Chenango,0,1,0,0,0,0,0
+New York,State Police Agencies,,22,16,4,0,0,1,0
+New York,State Police Agencies,State Police:,,,,,,,0
+New York,State Police Agencies,Albany County ,2,0,0,0,0,0,0
+New York,State Police Agencies,Clinton County ,6,0,0,0,0,0,0
+New York,State Police Agencies,Columbia County ,1,0,2,0,0,0,0
+New York,State Police Agencies,Duchess County ,1,2,0,0,0,0,0
+New York,State Police Agencies,Franklin County ,1,0,0,0,0,0,0
+New York,State Police Agencies,Genesee County ,1,0,0,0,0,0,0
+New York,State Police Agencies,Greene County ,1,0,0,0,0,0,0
+New York,State Police Agencies,Hamilton County ,1,0,0,0,0,0,0
+New York,State Police Agencies,Lewis County ,1,0,0,0,0,0,0
+New York,State Police Agencies,Oneida County ,0,1,0,0,0,0,0
+New York,State Police Agencies,Onondaga County ,0,1,0,0,0,0,0
+New York,State Police Agencies,Orange County ,0,1,0,0,0,0,0
+New York,State Police Agencies,Oswego County ,0,1,0,0,0,1,0
+New York,State Police Agencies,Putnam County ,0,1,1,0,0,0,0
+New York,State Police Agencies,Saratoga County ,1,0,0,0,0,0,0
+New York,State Police Agencies,Steuben County ,1,0,0,0,0,0,0
+New York,State Police Agencies,Sullivan County ,1,2,0,0,0,0,0
+New York,State Police Agencies,Tioga County ,0,1,0,0,0,0,0
+New York,State Police Agencies,Tompkins County ,0,1,0,0,0,0,0
+New York,State Police Agencies,Ulster County ,1,1,0,0,0,0,0
+New York,State Police Agencies,Wayne County ,1,1,0,0,0,0,0
+New York,State Police Agencies,Westchester County ,2,3,1,0,0,0,0
+New York,Other Agencies,,16,12,0,0,0,0,0
+New York,Other Agencies,New York City Metropolitan Transportation Authority,16,12,0,0,0,0,0
+North Carolina,Total,,114,24,24,4,0,0,0
+North Carolina,Cities,,80,20,21,3,0,0,0
+North Carolina,Cities,Albemarle,1,0,0,0,0,0,16022
+North Carolina,Cities,Apex,1,1,0,0,0,0,49159
+North Carolina,Cities,Asheville,4,2,1,0,0,0,90103
+North Carolina,Cities,Benson,0,1,0,0,0,0,3764
+North Carolina,Cities,Chapel Hill,5,0,4,0,0,0,59553
+North Carolina,Cities,Charlotte-Mecklenburg,17,9,5,1,0,0,914609
+North Carolina,Cities,Concord,1,0,0,0,0,0,91756
+North Carolina,Cities,Durham,13,1,2,0,0,0,269088
+North Carolina,Cities,Fayetteville,3,1,2,1,0,0,205432
+North Carolina,Cities,Greensboro,4,1,1,0,0,0,290051
+North Carolina,Cities,Hertford,1,0,0,0,0,0,2122
+North Carolina,Cities,High Point,1,0,0,0,0,0,112368
+North Carolina,Cities,Jacksonville,2,0,0,0,0,0,67293
+North Carolina,Cities,Kannapolis,1,0,0,0,0,0,48754
+North Carolina,Cities,Marion,1,2,0,0,0,0,7819
+North Carolina,Cities,Monroe,0,0,0,1,0,0,35153
+North Carolina,Cities,New Bern,1,0,0,0,0,0,30191
+North Carolina,Cities,Raleigh,12,2,3,0,0,0,468261
+North Carolina,Cities,Roanoke Rapids,1,0,0,0,0,0,15083
+North Carolina,Cities,Salisbury,2,0,0,0,0,0,34085
+North Carolina,Cities,Siler City,3,0,0,0,0,0,8531
+North Carolina,Cities,Waynesville,1,0,0,0,0,0,9977
+North Carolina,Cities,Wilmington,5,0,1,0,0,0,119422
+North Carolina,Cities,Wilson,0,0,2,0,0,0,49686
+North Carolina,Universities and Colleges,,3,0,1,0,0,0,0
+North Carolina,Universities and Colleges,East Carolina University,1,0,1,0,0,0,28962
+North Carolina,Universities and Colleges,North Carolina Central University,1,0,0,0,0,0,8094
+North Carolina,Universities and Colleges,"University of North Carolina, Pembroke",1,0,0,0,0,0,6268
+North Carolina,Metropolitan Counties,,23,4,2,1,0,0,0
+North Carolina,Metropolitan Counties,Brunswick,1,0,0,0,0,0,0
+North Carolina,Metropolitan Counties,Buncombe,1,1,0,0,0,0,0
+North Carolina,Metropolitan Counties,Burke,3,0,0,0,0,0,0
+North Carolina,Metropolitan Counties,Caldwell,1,0,0,0,0,0,0
+North Carolina,Metropolitan Counties,Forsyth,4,0,1,0,0,0,0
+North Carolina,Metropolitan Counties,Franklin,0,1,0,1,0,0,0
+North Carolina,Metropolitan Counties,Gaston County Police Department,3,0,1,0,0,0,0
+North Carolina,Metropolitan Counties,Guilford,1,0,0,0,0,0,0
+North Carolina,Metropolitan Counties,New Hanover,2,2,0,0,0,0,0
+North Carolina,Metropolitan Counties,Pitt,4,0,0,0,0,0,0
+North Carolina,Metropolitan Counties,Randolph,1,0,0,0,0,0,0
+North Carolina,Metropolitan Counties,Wake,2,0,0,0,0,0,0
+North Carolina,Nonmetropolitan Counties,,7,0,0,0,0,0,0
+North Carolina,Nonmetropolitan Counties,Jackson,3,0,0,0,0,0,0
+North Carolina,Nonmetropolitan Counties,Martin,2,0,0,0,0,0,0
+North Carolina,Nonmetropolitan Counties,Surry,1,0,0,0,0,0,0
+North Carolina,Nonmetropolitan Counties,Transylvania,1,0,0,0,0,0,0
+North Carolina,Other Agencies,,1,0,0,0,0,0,0
+North Carolina,Other Agencies,University of North Carolina Hospitals,1,0,0,0,0,0,0
+North Dakota,Total,,8,5,2,0,0,0,0
+North Dakota,Cities,,6,4,2,0,0,0,0
+North Dakota,Cities,Bismarck,2,1,1,0,0,0,74397
+North Dakota,Cities,Fargo,1,2,0,0,0,0,123430
+North Dakota,Cities,Grand Forks,2,0,0,0,0,0,58090
+North Dakota,Cities,Minot,1,0,1,0,0,0,50118
+North Dakota,Cities,Wahpeton,0,1,0,0,0,0,7841
+North Dakota,Metropolitan Counties,,2,0,0,0,0,0,0
+North Dakota,Metropolitan Counties,Cass,1,0,0,0,0,0,0
+North Dakota,Metropolitan Counties,Morton,1,0,0,0,0,0,0
+North Dakota,Nonmetropolitan Counties,,0,1,0,0,0,0,0
+North Dakota,Nonmetropolitan Counties,McLean,0,1,0,0,0,0,0
+Ohio,Total,,259,35,53,31,0,2,0
+Ohio,Cities,,225,28,46,26,0,2,0
+Ohio,Cities,Akron,10,0,0,4,0,0,197412
+Ohio,Cities,Amelia,1,1,0,0,0,0,4982
+Ohio,Cities,Ashland,1,0,0,0,0,0,20485
+Ohio,Cities,Aurora,2,0,0,0,0,0,15932
+Ohio,Cities,Austintown,1,0,0,0,0,0,35303
+Ohio,Cities,Baltimore,1,0,0,0,0,0,2973
+Ohio,Cities,Barberton,2,0,0,0,0,0,26050
+Ohio,Cities,Beavercreek,1,0,0,0,0,0,46572
+Ohio,Cities,Beaver Township,1,0,0,0,0,0,6427
+Ohio,Cities,Bellefontaine,1,0,0,0,0,0,13144
+Ohio,Cities,Blue Ash,1,0,0,0,0,0,12248
+Ohio,Cities,Boardman,2,0,0,0,0,0,39276
+Ohio,Cities,Brecksville,0,0,1,0,0,0,13432
+Ohio,Cities,Butler Township,1,0,0,3,0,0,7799
+Ohio,Cities,Canal Fulton,1,1,0,0,0,0,5428
+Ohio,Cities,Cincinnati,31,5,4,1,0,0,299116
+Ohio,Cities,Circleville,3,0,0,0,0,0,13972
+Ohio,Cities,Cleveland,12,0,0,0,0,0,385351
+Ohio,Cities,Colerain Township,3,1,0,0,0,0,58996
+Ohio,Cities,Columbus,50,3,19,3,0,0,872205
+Ohio,Cities,Copley Township,0,0,0,2,0,0,17280
+Ohio,Cities,Dayton,1,0,1,0,0,0,140171
+Ohio,Cities,Defiance,1,0,0,0,0,0,16594
+Ohio,Cities,Englewood,0,0,1,1,0,0,13504
+Ohio,Cities,Fairborn,2,0,0,0,0,0,33936
+Ohio,Cities,Fairfax,1,0,0,0,0,0,1702
+Ohio,Cities,Fairview Park,1,0,0,0,0,0,16307
+Ohio,Cities,Findlay,2,0,1,0,0,0,41474
+Ohio,Cities,Forest Park,1,0,0,0,0,0,18665
+Ohio,Cities,Franklin,3,0,0,0,0,0,11779
+Ohio,Cities,Gahanna,1,1,0,0,0,1,35243
+Ohio,Cities,Garrettsville,1,0,0,0,0,0,2321
+Ohio,Cities,Georgetown,2,0,0,0,0,0,4356
+Ohio,Cities,Green Township,3,0,0,0,0,0,58853
+Ohio,Cities,Grove City,1,0,0,1,0,0,40421
+Ohio,Cities,Groveport,1,0,0,0,0,0,5583
+Ohio,Cities,Hamilton,7,2,1,0,0,0,62094
+Ohio,Cities,Hilliard,1,1,0,0,0,0,36144
+Ohio,Cities,Holland,1,1,0,0,0,0,1662
+Ohio,Cities,Howland Township,1,0,0,0,0,0,16608
+Ohio,Cities,Huber Heights,0,0,0,1,0,0,37996
+Ohio,Cities,Hudson,1,0,1,1,0,0,22248
+Ohio,Cities,Ironton,1,0,0,0,0,0,10853
+Ohio,Cities,Jackson,1,0,0,0,0,0,6305
+Ohio,Cities,Jamestown,2,0,0,0,0,0,2036
+Ohio,Cities,Lancaster,1,0,0,0,0,0,40026
+Ohio,Cities,Lima,6,1,1,0,0,0,37220
+Ohio,Cities,Logan,0,0,1,0,0,0,7077
+Ohio,Cities,Lorain,1,1,0,0,0,0,63672
+Ohio,Cities,Louisville,1,0,0,0,0,0,9373
+Ohio,Cities,Loveland,1,0,0,0,0,0,12846
+Ohio,Cities,Lyndhurst,2,1,0,0,0,0,13586
+Ohio,Cities,"Madison Township, Franklin County",0,1,0,1,0,0,18661
+Ohio,Cities,Mansfield,3,0,2,0,0,0,46507
+Ohio,Cities,Marietta,1,0,2,0,0,0,13582
+Ohio,Cities,Marysville,0,0,1,0,0,0,23622
+Ohio,Cities,Mason,3,0,0,0,0,0,33406
+Ohio,Cities,Massillon,2,0,0,0,0,0,32265
+Ohio,Cities,Medina Township,1,0,0,0,0,0,8940
+Ohio,Cities,Mentor-on-the-Lake,0,1,0,0,0,0,7359
+Ohio,Cities,Minster,1,0,0,0,0,0,2866
+Ohio,Cities,Montgomery,0,1,0,0,0,0,10638
+Ohio,Cities,Mount Healthy,1,0,0,0,0,0,6020
+Ohio,Cities,Mount Vernon,0,1,0,0,0,0,16553
+Ohio,Cities,New Albany,3,0,0,0,0,0,10838
+Ohio,Cities,Newton Falls,0,0,1,0,0,0,4567
+Ohio,Cities,North Canton,1,1,1,0,0,0,17348
+Ohio,Cities,Oak Harbor,1,0,0,0,0,0,2731
+Ohio,Cities,Ontario,0,0,0,1,0,0,6058
+Ohio,Cities,Oxford,0,0,1,0,0,0,22459
+Ohio,Cities,Parma,1,0,0,0,0,0,79340
+Ohio,Cities,Perkins Township,1,0,0,0,0,0,11773
+Ohio,Cities,"Perry Township, Franklin County",0,1,0,0,0,0,3758
+Ohio,Cities,Pickerington,0,1,0,0,0,0,20373
+Ohio,Cities,Pierce Township,1,0,0,0,0,0,11623
+Ohio,Cities,Portsmouth,0,0,0,1,0,0,20451
+Ohio,Cities,Powell,1,0,0,0,0,0,13029
+Ohio,Cities,Reading,1,0,0,0,0,0,10307
+Ohio,Cities,Reynoldsburg,5,1,1,0,0,0,37704
+Ohio,Cities,Rocky River,0,0,0,1,0,0,20342
+Ohio,Cities,Sabina,2,0,0,0,0,0,2534
+Ohio,Cities,Salem,2,0,0,0,0,0,11887
+Ohio,Cities,Shelby,1,0,0,0,0,0,8987
+Ohio,Cities,Sidney,0,0,1,0,0,0,20466
+Ohio,Cities,South Euclid,0,0,0,1,0,0,21628
+Ohio,Cities,"Springfield Township, Hamilton County",1,0,2,0,0,1,36571
+Ohio,Cities,"Springfield Township, Summit County",1,0,0,0,0,0,14434
+Ohio,Cities,St. Clair Township,0,0,0,1,0,0,7583
+Ohio,Cities,Streetsboro,0,0,1,1,0,0,16308
+Ohio,Cities,Sugarcreek Township,1,0,0,0,0,0,8300
+Ohio,Cities,Sylvania Township,1,0,0,0,0,0,29536
+Ohio,Cities,Tipp City,0,1,0,0,0,0,9957
+Ohio,Cities,Toledo,2,0,0,0,0,0,277116
+Ohio,Cities,Trotwood,1,0,0,0,0,0,24308
+Ohio,Cities,Upper Arlington,1,0,0,0,0,0,35214
+Ohio,Cities,Van Wert,1,0,0,0,0,0,10713
+Ohio,Cities,Wadsworth,3,0,1,0,0,0,23388
+Ohio,Cities,West Chester Township,1,0,0,0,0,0,61386
+Ohio,Cities,Westerville,1,0,0,0,0,0,39418
+Ohio,Cities,Whitehall,1,0,0,0,0,0,18835
+Ohio,Cities,Willoughby,1,0,0,0,0,0,22857
+Ohio,Cities,Wilmington,2,0,0,0,0,0,12416
+Ohio,Cities,Wooster,0,0,0,1,0,0,27172
+Ohio,Cities,Xenia,1,0,0,0,0,0,26331
+Ohio,Cities,Zanesville,1,0,1,1,0,0,25457
+Ohio,Universities and Colleges,,6,1,2,0,0,0,0
+Ohio,Universities and Colleges,Bowling Green State University,2,0,0,0,0,0,17644
+Ohio,Universities and Colleges,Capital University,1,0,2,0,0,0,3367
+Ohio,Universities and Colleges,Columbus State Community College,0,1,0,0,0,0,27109
+Ohio,Universities and Colleges,"Ohio State University, Columbus",3,0,0,0,0,0,59482
+Ohio,Metropolitan Counties,,14,4,2,3,0,0,0
+Ohio,Metropolitan Counties,Belmont,1,0,0,0,0,0,0
+Ohio,Metropolitan Counties,Butler,1,0,0,0,0,0,0
+Ohio,Metropolitan Counties,Clark,1,1,0,0,0,0,0
+Ohio,Metropolitan Counties,Clermont,1,0,0,0,0,0,0
+Ohio,Metropolitan Counties,Fairfield,1,0,0,0,0,0,0
+Ohio,Metropolitan Counties,Franklin,1,0,0,0,0,0,0
+Ohio,Metropolitan Counties,Fulton,1,0,0,0,0,0,0
+Ohio,Metropolitan Counties,Greene,0,1,0,0,0,0,0
+Ohio,Metropolitan Counties,Hocking,0,1,0,0,0,0,0
+Ohio,Metropolitan Counties,Lorain,1,0,0,0,0,0,0
+Ohio,Metropolitan Counties,Lucas,2,0,0,0,0,0,0
+Ohio,Metropolitan Counties,Madison,0,0,0,1,0,0,0
+Ohio,Metropolitan Counties,Montgomery,3,0,2,0,0,0,0
+Ohio,Metropolitan Counties,Perry,0,0,0,1,0,0,0
+Ohio,Metropolitan Counties,Richland,1,0,0,0,0,0,0
+Ohio,Metropolitan Counties,Stark,0,1,0,0,0,0,0
+Ohio,Metropolitan Counties,Warren,0,0,0,1,0,0,0
+Ohio,Nonmetropolitan Counties,,11,2,3,1,0,0,0
+Ohio,Nonmetropolitan Counties,Ashland,3,0,0,0,0,0,0
+Ohio,Nonmetropolitan Counties,Athens,1,0,0,0,0,0,0
+Ohio,Nonmetropolitan Counties,Hardin,2,1,1,0,0,0,0
+Ohio,Nonmetropolitan Counties,Highland,1,0,0,0,0,0,0
+Ohio,Nonmetropolitan Counties,Logan,1,0,0,0,0,0,0
+Ohio,Nonmetropolitan Counties,Marion,0,0,1,1,0,0,0
+Ohio,Nonmetropolitan Counties,Ross,3,0,0,0,0,0,0
+Ohio,Nonmetropolitan Counties,Shelby,0,0,1,0,0,0,0
+Ohio,Nonmetropolitan Counties,Washington,0,1,0,0,0,0,0
+Ohio,State Police Agencies,,1,0,0,1,0,0,0
+Ohio,State Police Agencies,Ohio State Highway Patrol,1,0,0,1,0,0,0
+Ohio,Other Agencies,,2,0,0,0,0,0,0
+Ohio,Other Agencies,Cleveland Metropolitan Park District,2,0,0,0,0,0,0
+Oklahoma,Total,,17,7,10,0,1,2,0
+Oklahoma,Cities,,10,5,7,0,1,1,0
+Oklahoma,Cities,Catoosa,1,0,0,0,0,0,7129
+Oklahoma,Cities,Chickasha,1,0,0,0,0,0,16489
+Oklahoma,Cities,Collinsville,1,0,0,0,0,1,6836
+Oklahoma,Cities,Fairland,0,1,0,0,0,0,1051
+Oklahoma,Cities,Kellyville,0,0,1,0,0,0,1147
+Oklahoma,Cities,Lawton,0,1,0,0,0,0,94134
+Oklahoma,Cities,Luther,1,0,0,0,0,0,1675
+Oklahoma,Cities,Marietta,0,1,0,0,0,0,2782
+Oklahoma,Cities,Muldrow,1,0,1,0,0,0,3250
+Oklahoma,Cities,Muskogee,1,0,0,0,0,0,38199
+Oklahoma,Cities,Noble,0,0,1,0,0,0,6799
+Oklahoma,Cities,Norman,1,0,1,0,1,0,124074
+Oklahoma,Cities,Owasso,0,0,1,0,0,0,36869
+Oklahoma,Cities,Sapulpa,0,1,0,0,0,0,21062
+Oklahoma,Cities,Stillwater,0,1,1,0,0,0,50159
+Oklahoma,Cities,Wagoner,1,0,0,0,0,0,8931
+Oklahoma,Cities,Wewoka,1,0,1,0,0,0,3390
+Oklahoma,Cities,Woodward,1,0,0,0,0,0,12655
+Oklahoma,Universities and Colleges,,1,0,0,0,0,1,0
+Oklahoma,Universities and Colleges,Langston University,0,0,0,0,0,1,2420
+Oklahoma,Universities and Colleges,"Oklahoma State University, Main Campus",1,0,0,0,0,0,25622
+Oklahoma,Metropolitan Counties,,2,1,0,0,0,0,0
+Oklahoma,Metropolitan Counties,Lincoln,1,0,0,0,0,0,0
+Oklahoma,Metropolitan Counties,Tulsa,1,1,0,0,0,0,0
+Oklahoma,Nonmetropolitan Counties,,4,1,3,0,0,0,0
+Oklahoma,Nonmetropolitan Counties,Choctaw,0,0,1,0,0,0,0
+Oklahoma,Nonmetropolitan Counties,Delaware,0,1,2,0,0,0,0
+Oklahoma,Nonmetropolitan Counties,Kingfisher,2,0,0,0,0,0,0
+Oklahoma,Nonmetropolitan Counties,Marshall,1,0,0,0,0,0,0
+Oklahoma,Nonmetropolitan Counties,Payne,1,0,0,0,0,0,0
+Oregon,Total,,84,29,24,4,1,4,0
+Oregon,Cities,,79,29,20,3,1,4,0
+Oregon,Cities,Albany,1,0,1,0,0,0,53701
+Oregon,Cities,Ashland,1,1,1,0,0,0,21908
+Oregon,Cities,Baker City,0,0,1,0,0,0,9764
+Oregon,Cities,Beaverton,1,2,0,0,0,0,98897
+Oregon,Cities,Canby,1,0,0,0,0,0,17823
+Oregon,Cities,Central Point,1,0,0,0,0,0,18525
+Oregon,Cities,Corvallis,3,0,1,0,0,0,57576
+Oregon,Cities,Eugene,46,12,8,1,1,4,168310
+Oregon,Cities,Gresham,0,0,1,1,0,0,112466
+Oregon,Cities,Hillsboro,1,3,0,0,0,0,107433
+Oregon,Cities,Klamath Falls,3,1,1,0,0,0,22436
+Oregon,Cities,Newberg-Dundee,1,1,0,0,0,0,26769
+Oregon,Cities,North Plains,1,0,0,0,0,0,2158
+Oregon,Cities,Ontario,0,0,1,0,0,0,10970
+Oregon,Cities,Oregon City,0,1,0,0,0,0,36921
+Oregon,Cities,Portland,10,4,3,1,0,0,649408
+Oregon,Cities,Salem,4,0,1,0,0,0,169565
+Oregon,Cities,Sherwood,0,1,0,0,0,0,19473
+Oregon,Cities,Springfield,1,0,0,0,0,0,62318
+Oregon,Cities,Tigard,4,3,1,0,0,0,52524
+Oregon,Universities and Colleges,,0,0,1,0,0,0,0
+Oregon,Universities and Colleges,Portland State University,0,0,1,0,0,0,26627
+Oregon,Metropolitan Counties,,3,0,2,0,0,0,0
+Oregon,Metropolitan Counties,Benton,1,0,0,0,0,0,0
+Oregon,Metropolitan Counties,Columbia,1,0,0,0,0,0,0
+Oregon,Metropolitan Counties,Lane,0,0,2,0,0,0,0
+Oregon,Metropolitan Counties,Washington,1,0,0,0,0,0,0
+Oregon,Nonmetropolitan Counties,,0,0,1,1,0,0,0
+Oregon,Nonmetropolitan Counties,Crook,0,0,1,0,0,0,0
+Oregon,Nonmetropolitan Counties,Umatilla,0,0,0,1,0,0,0
+Oregon,State Police Agencies,,1,0,0,0,0,0,0
+Oregon,State Police Agencies,"State Police, Benton County",1,0,0,0,0,0,0
+Oregon,Tribal Agencies,,1,0,0,0,0,0,0
+Oregon,Tribal Agencies,Grand Ronde Tribal,1,0,0,0,0,0,0
+Pennsylvania,Total,,52,17,6,0,0,3,0
+Pennsylvania,Cities,,43,14,6,0,0,3,0
+Pennsylvania,Cities,Bethlehem,1,0,0,0,0,0,75336
+Pennsylvania,Cities,Carlisle,1,0,0,0,0,0,19233
+Pennsylvania,Cities,East Earl Township,1,0,0,0,0,0,6838
+Pennsylvania,Cities,Lower Windsor Township,1,0,0,0,0,0,7500
+Pennsylvania,Cities,"Manor Township, Lancaster County",1,0,0,0,0,0,20949
+Pennsylvania,Cities,Murrysville,1,0,0,0,0,0,20034
+Pennsylvania,Cities,New Hope,0,0,1,0,0,0,2492
+Pennsylvania,Cities,Patton Township,1,0,0,0,0,0,16100
+Pennsylvania,Cities,Philadelphia,19,14,4,0,0,3,1575595
+Pennsylvania,Cities,Pittsburgh,13,0,1,0,0,0,305932
+Pennsylvania,Cities,"Richland Township, Cambria County",1,0,0,0,0,0,12153
+Pennsylvania,Cities,Selinsgrove,1,0,0,0,0,0,5930
+Pennsylvania,Cities,"Washington Township, Franklin County",1,0,0,0,0,0,14678
+Pennsylvania,Cities,Wilkes-Barre,1,0,0,0,0,0,40418
+Pennsylvania,Universities and Colleges,,4,2,0,0,0,0,0
+Pennsylvania,Universities and Colleges,Elizabethtown College,1,0,0,0,0,0,1784
+Pennsylvania,Universities and Colleges,Pennsylvania State University:  ,,,,,,,0
+Pennsylvania,Universities and Colleges,Brandywine,1,0,0,0,0,0,1379
+Pennsylvania,Universities and Colleges,University Park,2,1,0,0,0,0,47789
+Pennsylvania,Universities and Colleges,"University of Pittsburgh, Pittsburgh",0,1,0,0,0,0,28664
+Pennsylvania,State Police Agencies,,5,1,0,0,0,0,0
+Pennsylvania,State Police Agencies,State Police:,,,,,,,0
+Pennsylvania,State Police Agencies,Centre County,1,0,0,0,0,0,0
+Pennsylvania,State Police Agencies,Chester County,1,0,0,0,0,0,0
+Pennsylvania,State Police Agencies,Cumberland County,1,0,0,0,0,0,0
+Pennsylvania,State Police Agencies,Erie County,1,0,0,0,0,0,0
+Pennsylvania,State Police Agencies,Skippack ,1,1,0,0,0,0,0
+Rhode Island,Total,,5,4,2,0,0,0,0
+Rhode Island,Cities,,5,4,2,0,0,0,0
+Rhode Island,Cities,Coventry,1,0,0,0,0,0,35083
+Rhode Island,Cities,East Providence,0,3,0,0,0,0,47502
+Rhode Island,Cities,Johnston,1,0,0,0,0,0,29375
+Rhode Island,Cities,Providence,3,1,2,0,0,0,179854
+South Carolina,Total,,63,11,12,1,0,0,0
+South Carolina,Cities,,36,3,5,0,0,0,0
+South Carolina,Cities,Abbeville,0,0,1,0,0,0,5153
+South Carolina,Cities,Andrews,7,0,0,0,0,0,2903
+South Carolina,Cities,Beaufort,4,0,0,0,0,0,13612
+South Carolina,Cities,Cayce,3,0,0,0,0,0,14434
+South Carolina,Cities,Charleston,1,0,0,0,0,0,136845
+South Carolina,Cities,Chester,1,0,0,0,0,0,5452
+South Carolina,Cities,Denmark,3,0,0,0,0,0,2942
+South Carolina,Cities,Elloree,1,0,0,0,0,0,666
+South Carolina,Cities,Greeleyville,1,0,0,0,0,0,400
+South Carolina,Cities,Greenville,0,1,1,0,0,0,68922
+South Carolina,Cities,Hartsville,1,0,1,0,0,0,7769
+South Carolina,Cities,Irmo,1,0,0,0,0,0,12353
+South Carolina,Cities,Laurens,1,0,0,0,0,0,9089
+South Carolina,Cities,Moncks Corner,3,1,1,0,0,0,10818
+South Carolina,Cities,Myrtle Beach,0,0,1,0,0,0,33167
+South Carolina,Cities,North Charleston,1,0,0,0,0,0,111305
+South Carolina,Cities,Orangeburg,1,0,0,0,0,0,13076
+South Carolina,Cities,Pickens,1,0,0,0,0,0,3201
+South Carolina,Cities,St. George,1,0,0,0,0,0,2181
+South Carolina,Cities,Sullivans Island,0,1,0,0,0,0,1961
+South Carolina,Cities,Union,2,0,0,0,0,0,7940
+South Carolina,Cities,Westminster,1,0,0,0,0,0,2514
+South Carolina,Cities,Winnsboro,2,0,0,0,0,0,3276
+South Carolina,Universities and Colleges,,4,0,0,0,0,0,0
+South Carolina,Universities and Colleges,Benedict College,1,0,0,0,0,0,2281
+South Carolina,Universities and Colleges,Clemson University,1,0,0,0,0,0,23406
+South Carolina,Universities and Colleges,Medical University of South Carolina,1,0,0,0,0,0,2986
+South Carolina,Universities and Colleges,The Citadel,1,0,0,0,0,0,3602
+South Carolina,Metropolitan Counties,,5,2,4,0,0,0,0
+South Carolina,Metropolitan Counties,Beaufort,1,1,1,0,0,0,0
+South Carolina,Metropolitan Counties,Greenville,1,0,0,0,0,0,0
+South Carolina,Metropolitan Counties,Horry County Police Department,0,0,1,0,0,0,0
+South Carolina,Metropolitan Counties,Laurens,2,0,0,0,0,0,0
+South Carolina,Metropolitan Counties,Richland,1,1,1,0,0,0,0
+South Carolina,Metropolitan Counties,Sumter,0,0,1,0,0,0,0
+South Carolina,Nonmetropolitan Counties,,17,6,3,1,0,0,0
+South Carolina,Nonmetropolitan Counties,Abbeville,1,0,0,0,0,0,0
+South Carolina,Nonmetropolitan Counties,Bamberg,0,4,0,0,0,0,0
+South Carolina,Nonmetropolitan Counties,Chesterfield,4,0,0,0,0,0,0
+South Carolina,Nonmetropolitan Counties,Clarendon,0,0,1,0,0,0,0
+South Carolina,Nonmetropolitan Counties,Colleton,2,0,0,0,0,0,0
+South Carolina,Nonmetropolitan Counties,Dillon,1,0,0,0,0,0,0
+South Carolina,Nonmetropolitan Counties,Georgetown,0,1,0,0,0,0,0
+South Carolina,Nonmetropolitan Counties,Greenwood,1,0,0,0,0,0,0
+South Carolina,Nonmetropolitan Counties,Hampton,0,0,1,0,0,0,0
+South Carolina,Nonmetropolitan Counties,Marion,0,0,1,0,0,0,0
+South Carolina,Nonmetropolitan Counties,Orangeburg,7,1,0,1,0,0,0
+South Carolina,Nonmetropolitan Counties,Williamsburg,1,0,0,0,0,0,0
+South Carolina,Other Agencies,,1,0,0,0,0,0,0
+South Carolina,Other Agencies,Lexington County Medical Center,1,0,0,0,0,0,0
+South Dakota,Total,,8,4,3,2,0,0,0
+South Dakota,Cities,,5,2,2,0,0,0,0
+South Dakota,Cities,Brookings,2,0,0,0,0,0,24198
+South Dakota,Cities,Rapid City,1,0,0,0,0,0,74986
+South Dakota,Cities,Sioux Falls,1,2,2,0,0,0,177888
+South Dakota,Cities,Spearfish,1,0,0,0,0,0,11697
+South Dakota,Metropolitan Counties,,3,0,1,1,0,0,0
+South Dakota,Metropolitan Counties,Custer,1,0,0,0,0,0,0
+South Dakota,Metropolitan Counties,McCook,0,0,1,0,0,0,0
+South Dakota,Metropolitan Counties,Minnehaha,1,0,0,0,0,0,0
+South Dakota,Metropolitan Counties,Pennington,1,0,0,0,0,0,0
+South Dakota,Metropolitan Counties,Union,0,0,0,1,0,0,0
+South Dakota,Nonmetropolitan Counties,,0,2,0,1,0,0,0
+South Dakota,Nonmetropolitan Counties,Brookings,0,2,0,1,0,0,0
+Tennessee,Total,,88,18,21,7,2,0,0
+Tennessee,Cities,,61,9,21,6,2,0,0
+Tennessee,Cities,Adamsville,0,0,1,0,0,0,2207
+Tennessee,Cities,Alcoa,0,1,0,0,0,0,10128
+Tennessee,Cities,Bartlett,1,0,0,0,0,0,58895
+Tennessee,Cities,Bolivar,0,1,0,0,0,0,5066
+Tennessee,Cities,Brighton,1,0,0,0,0,0,2949
+Tennessee,Cities,Brownsville,1,0,0,0,0,0,9698
+Tennessee,Cities,Centerville,1,0,0,0,0,0,3564
+Tennessee,Cities,Chattanooga,3,0,1,0,0,0,178753
+Tennessee,Cities,Clarksville,2,0,2,0,0,0,153294
+Tennessee,Cities,Cleveland,7,0,0,0,0,0,44778
+Tennessee,Cities,Collierville,4,0,0,0,0,0,49790
+Tennessee,Cities,Covington,2,0,0,1,0,0,8909
+Tennessee,Cities,Crossville,1,0,0,0,0,0,11555
+Tennessee,Cities,Fairview,1,0,0,0,0,0,8648
+Tennessee,Cities,Germantown,1,0,0,0,1,0,39086
+Tennessee,Cities,Greenbrier,0,0,1,0,0,0,6853
+Tennessee,Cities,Greeneville,0,0,0,1,0,0,15065
+Tennessee,Cities,Jackson,3,0,2,0,0,0,67031
+Tennessee,Cities,Jamestown,0,0,1,1,0,0,1964
+Tennessee,Cities,Jonesborough,0,0,0,1,0,0,5378
+Tennessee,Cities,Knoxville,2,0,3,0,0,0,187539
+Tennessee,Cities,Lebanon,5,0,0,0,0,0,32248
+Tennessee,Cities,Manchester,1,0,0,0,0,0,10702
+Tennessee,Cities,McMinnville,1,1,0,0,0,0,13786
+Tennessee,Cities,Memphis,4,0,3,0,0,0,652765
+Tennessee,Cities,Milan,2,1,1,0,1,0,7780
+Tennessee,Cities,Millington,3,0,1,0,0,0,10944
+Tennessee,Cities,Morristown,3,0,0,0,0,0,29774
+Tennessee,Cities,Murfreesboro,0,0,0,1,0,0,136102
+Tennessee,Cities,Nashville Metropolitan,11,5,3,0,0,0,674942
+Tennessee,Cities,Ripley,0,0,1,0,0,0,8067
+Tennessee,Cities,Rogersville,1,0,0,0,0,0,4367
+Tennessee,Cities,Smyrna,0,0,1,0,0,0,50091
+Tennessee,Cities,White Bluff,0,0,0,1,0,0,3483
+Tennessee,Universities and Colleges,,3,0,0,0,0,0,0
+Tennessee,Universities and Colleges,Chattanooga State Community College,1,0,0,0,0,0,8628
+Tennessee,Universities and Colleges,Tennessee Technological University,1,0,0,0,0,0,10493
+Tennessee,Universities and Colleges,University of the South,1,0,0,0,0,0,1815
+Tennessee,Metropolitan Counties,,10,5,0,0,0,0,0
+Tennessee,Metropolitan Counties,Anderson,1,0,0,0,0,0,0
+Tennessee,Metropolitan Counties,Cheatham,1,0,0,0,0,0,0
+Tennessee,Metropolitan Counties,Hamilton,1,2,0,0,0,0,0
+Tennessee,Metropolitan Counties,Hickman,0,1,0,0,0,0,0
+Tennessee,Metropolitan Counties,Knox,2,0,0,0,0,0,0
+Tennessee,Metropolitan Counties,Montgomery,0,1,0,0,0,0,0
+Tennessee,Metropolitan Counties,Rutherford,1,1,0,0,0,0,0
+Tennessee,Metropolitan Counties,Shelby,2,0,0,0,0,0,0
+Tennessee,Metropolitan Counties,Sullivan,1,0,0,0,0,0,0
+Tennessee,Metropolitan Counties,Washington,1,0,0,0,0,0,0
+Tennessee,Nonmetropolitan Counties,,6,3,0,0,0,0,0
+Tennessee,Nonmetropolitan Counties,Benton,0,2,0,0,0,0,0
+Tennessee,Nonmetropolitan Counties,Claiborne,1,0,0,0,0,0,0
+Tennessee,Nonmetropolitan Counties,Coffee,1,0,0,0,0,0,0
+Tennessee,Nonmetropolitan Counties,Gibson,1,0,0,0,0,0,0
+Tennessee,Nonmetropolitan Counties,Hardin,1,0,0,0,0,0,0
+Tennessee,Nonmetropolitan Counties,McMinn,1,0,0,0,0,0,0
+Tennessee,Nonmetropolitan Counties,Monroe,0,1,0,0,0,0,0
+Tennessee,Nonmetropolitan Counties,Rhea,1,0,0,0,0,0,0
+Tennessee,State Police Agencies,,8,1,0,0,0,0,0
+Tennessee,State Police Agencies,Department of Safety,8,1,0,0,0,0,0
+Tennessee,Other Agencies,,0,0,0,1,0,0,0
+Tennessee,Other Agencies,Tennessee Bureau of Investigation,0,0,0,1,0,0,0
+Texas,Total,,117,22,43,3,1,6,0
+Texas,Cities,,104,20,38,3,0,6,0
+Texas,Cities,Abilene,3,0,0,0,0,0,122981
+Texas,Cities,Alvin,1,0,0,0,0,0,26488
+Texas,Cities,Arlington,4,2,1,0,0,0,397377
+Texas,Cities,Aubrey,0,0,1,0,0,0,3535
+Texas,Cities,Austin,10,3,4,0,0,1,971949
+Texas,Cities,Balch Springs,1,0,0,0,0,0,25199
+Texas,Cities,Beaumont,1,0,0,0,0,0,118456
+Texas,Cities,Bedford,1,0,0,0,0,0,49947
+Texas,Cities,Bellmead,1,0,0,0,0,0,10371
+Texas,Cities,Brownwood,1,0,0,0,0,0,19133
+Texas,Cities,Burkburnett,1,0,1,0,0,0,11142
+Texas,Cities,Burleson,2,0,0,0,0,0,46531
+Texas,Cities,Burnet,0,0,1,0,0,0,6422
+Texas,Cities,Cedar Park,2,0,0,0,0,0,72143
+Texas,Cities,Corsicana,0,0,1,0,0,0,24011
+Texas,Cities,Dallas,2,0,12,0,0,0,1338551
+Texas,Cities,Decatur,1,0,0,0,0,0,6755
+Texas,Cities,Denton,1,1,2,0,0,0,136836
+Texas,Cities,Devine,3,0,0,0,0,0,4847
+Texas,Cities,Dumas,1,0,0,0,0,0,14943
+Texas,Cities,El Paso,4,0,0,0,0,0,688667
+Texas,Cities,Flower Mound,2,0,1,0,0,0,75101
+Texas,Cities,Fort Worth,7,2,4,0,0,0,873069
+Texas,Cities,Frisco,1,0,0,0,0,0,172804
+Texas,Cities,Galena Park,1,1,0,0,0,0,11091
+Texas,Cities,Galveston,2,0,1,0,0,0,51021
+Texas,Cities,Giddings,1,0,0,0,0,0,5154
+Texas,Cities,Greenville,1,0,0,0,0,0,27434
+Texas,Cities,Henderson,0,0,0,0,0,1,13366
+Texas,Cities,Hewitt,0,0,1,0,0,0,14443
+Texas,Cities,Hitchcock,1,0,0,1,0,0,7949
+Texas,Cities,Houston,2,3,1,0,0,2,2338235
+Texas,Cities,Iowa Park,1,1,0,0,0,0,6361
+Texas,Cities,Jacksonville,1,0,0,0,0,0,14955
+Texas,Cities,Keene,2,0,0,0,0,0,6334
+Texas,Cities,Lacy-Lakeview,1,0,0,0,0,0,6633
+Texas,Cities,Lampasas,2,0,0,0,0,0,7910
+Texas,Cities,League City,3,0,0,0,0,0,105351
+Texas,Cities,Leon Valley,2,0,0,0,0,0,11508
+Texas,Cities,Longview2,1,2,3,0,0,1,82303
+Texas,Cities,Lubbock,2,0,0,0,0,0,256335
+Texas,Cities,Marble Falls,1,0,0,0,0,0,6358
+Texas,Cities,McKinney,4,1,0,0,0,0,179934
+Texas,Cities,Odessa,2,1,2,1,0,0,121194
+Texas,Cities,Palestine,1,0,0,0,0,0,18316
+Texas,Cities,Pampa,1,0,0,0,0,0,17736
+Texas,Cities,Pearland,1,0,0,0,0,0,117869
+Texas,Cities,Pflugerville,4,0,0,0,0,0,61212
+Texas,Cities,Plano,2,0,0,0,0,1,290413
+Texas,Cities,Rockwall,1,0,0,1,0,0,44599
+Texas,Cities,Round Rock,1,0,0,0,0,0,124617
+Texas,Cities,Rusk,2,0,0,0,0,0,5576
+Texas,Cities,Sachse,1,0,0,0,0,0,25907
+Texas,Cities,San Angelo,1,0,0,0,0,0,101931
+Texas,Cities,San Antonio,2,1,1,0,0,0,1520712
+Texas,Cities,San Saba,0,1,0,0,0,0,3071
+Texas,Cities,Schulenburg,0,1,0,0,0,0,2943
+Texas,Cities,Seven Points,1,0,1,0,0,0,1462
+Texas,Cities,Silsbee,1,0,0,0,0,0,6747
+Texas,Cities,Temple,2,0,0,0,0,0,74794
+Texas,Cities,Thorndale,1,0,0,0,0,0,1293
+Texas,Cities,Victoria,1,0,0,0,0,0,68544
+Texas,Cities,Wolfforth,1,0,0,0,0,0,4552
+Texas,Universities and Colleges,,0,0,2,0,0,0,0
+Texas,Universities and Colleges,South Plains College,0,0,1,0,0,0,9478
+Texas,Universities and Colleges,"Texas Tech University, Lubbock",0,0,1,0,0,0,36551
+Texas,Metropolitan Counties,,9,1,3,0,0,0,0
+Texas,Metropolitan Counties,Austin,1,0,0,0,0,0,0
+Texas,Metropolitan Counties,Fort Bend,3,0,0,0,0,0,0
+Texas,Metropolitan Counties,Kaufman,1,0,0,0,0,0,0
+Texas,Metropolitan Counties,Travis,2,1,3,0,0,0,0
+Texas,Metropolitan Counties,Webb,1,0,0,0,0,0,0
+Texas,Metropolitan Counties,Williamson,1,0,0,0,0,0,0
+Texas,Nonmetropolitan Counties,,3,0,0,0,1,0,0
+Texas,Nonmetropolitan Counties,Cherokee,1,0,0,0,0,0,0
+Texas,Nonmetropolitan Counties,Floyd2,2,0,0,0,1,0,0
+Texas,Other Agencies,,1,1,0,0,0,0,0
+Texas,Other Agencies,Independent School District:  ,,,,,,,0
+Texas,Other Agencies,Austin,0,1,0,0,0,0,0
+Texas,Other Agencies,Pflugerville,1,0,0,0,0,0,0
+Utah,Total,,51,15,8,0,0,4,0
+Utah,Cities,,32,10,4,0,0,2,0
+Utah,Cities,Bountiful,7,0,0,0,0,0,44312
+Utah,Cities,Draper,1,0,0,0,0,0,48197
+Utah,Cities,Kaysville,1,1,0,0,0,0,31873
+Utah,Cities,Layton,2,2,0,0,0,0,77048
+Utah,Cities,Logan,0,0,1,0,0,0,51059
+Utah,Cities,Moab,1,0,0,0,0,0,5266
+Utah,Cities,Ogden,2,1,1,0,0,0,87323
+Utah,Cities,Pleasant View,1,0,0,0,0,0,10036
+Utah,Cities,Price,1,1,0,0,0,2,8313
+Utah,Cities,Roosevelt,1,0,0,0,0,0,7057
+Utah,Cities,Roy,2,0,0,0,0,0,38410
+Utah,Cities,Salt Lake City,2,1,1,0,0,0,194968
+Utah,Cities,South Jordan,2,2,0,0,0,0,72533
+Utah,Cities,South Ogden,0,1,0,0,0,0,17177
+Utah,Cities,South Salt Lake,1,0,0,0,0,0,24811
+Utah,Cities,St. George,4,0,0,0,0,0,84007
+Utah,Cities,Washington,1,0,1,0,0,0,26618
+Utah,Cities,West Jordan,0,1,0,0,0,0,115390
+Utah,Cities,West Valley,3,0,0,0,0,0,137762
+Utah,Metropolitan Counties,,1,3,1,0,0,0,0
+Utah,Metropolitan Counties,Davis,0,0,1,0,0,0,0
+Utah,Metropolitan Counties,Salt Lake County Unified Police Department,0,3,0,0,0,0,0
+Utah,Metropolitan Counties,Weber,1,0,0,0,0,0,0
+Utah,Nonmetropolitan Counties,,5,1,2,0,0,0,0
+Utah,Nonmetropolitan Counties,Carbon,0,1,1,0,0,0,0
+Utah,Nonmetropolitan Counties,Duchesne,1,0,0,0,0,0,0
+Utah,Nonmetropolitan Counties,Uintah,4,0,1,0,0,0,0
+Utah,Other Agencies,,13,1,1,0,0,2,0
+Utah,Other Agencies,Utah Transit Authority,11,1,1,0,0,2,0
+Utah,Other Agencies,Weber Morgan Narcotics Strike Force,2,0,0,0,0,0,0
+Vermont,Total,,18,6,8,3,0,0,0
+Vermont,Cities,,15,4,8,2,0,0,0
+Vermont,Cities,Brattleboro2,2,0,1,0,0,0,11536
+Vermont,Cities,Bristol,0,1,0,0,0,0,3908
+Vermont,Cities,Burlington,4,1,2,0,0,0,42230
+Vermont,Cities,Colchester,1,0,0,0,0,0,17353
+Vermont,Cities,Dover,0,0,1,0,0,0,1076
+Vermont,Cities,Essex,0,0,1,0,0,0,21470
+Vermont,Cities,Hartford,1,0,0,1,0,0,9628
+Vermont,Cities,Middlebury,1,0,0,0,0,0,8681
+Vermont,Cities,Newport,0,0,1,0,0,0,4287
+Vermont,Cities,Rutland,0,0,1,0,0,0,15462
+Vermont,Cities,South Burlington,1,0,0,0,0,0,19146
+Vermont,Cities,St. Albans,1,2,0,1,0,0,6772
+Vermont,Cities,St. Johnsbury,1,0,0,0,0,0,7196
+Vermont,Cities,Williston,3,0,0,0,0,0,9731
+Vermont,Cities,Winooski,0,0,1,0,0,0,7105
+Vermont,Universities and Colleges,,2,2,0,1,0,0,0
+Vermont,Universities and Colleges,University of Vermont,2,2,0,1,0,0,13105
+Vermont,Metropolitan Counties,,1,0,0,0,0,0,0
+Vermont,Metropolitan Counties,Franklin,1,0,0,0,0,0,0
+Virginia,Total,,109,42,35,7,0,0,0
+Virginia,Cities,,41,10,9,1,0,0,0
+Virginia,Cities,Alexandria,1,2,2,0,0,0,158256
+Virginia,Cities,Altavista,0,0,1,0,0,0,3470
+Virginia,Cities,Bedford,1,0,0,0,0,0,6622
+Virginia,Cities,Blacksburg,0,1,0,0,0,0,45443
+Virginia,Cities,Charlottesville,1,0,0,0,0,0,47446
+Virginia,Cities,Chesapeake,6,0,0,0,0,0,240119
+Virginia,Cities,Christiansburg,1,0,0,0,0,0,22272
+Virginia,Cities,Emporia,1,0,0,0,0,0,5201
+Virginia,Cities,Farmville,0,1,0,0,0,0,8127
+Virginia,Cities,Front Royal,0,0,1,0,0,0,15270
+Virginia,Cities,Hampton,3,0,0,0,0,0,134929
+Virginia,Cities,Harrisonburg,2,0,0,0,0,0,53717
+Virginia,Cities,Leesburg,4,2,0,0,0,0,54393
+Virginia,Cities,Lynchburg,2,0,0,0,0,0,80890
+Virginia,Cities,Manassas,1,0,0,0,0,0,41995
+Virginia,Cities,Manassas Park,1,0,0,0,0,0,16158
+Virginia,Cities,Marion,1,0,0,0,0,0,5837
+Virginia,Cities,Newport News,2,1,1,0,0,0,181738
+Virginia,Cities,Norfolk,1,0,1,0,0,0,245190
+Virginia,Cities,Petersburg,1,0,0,0,0,0,31739
+Virginia,Cities,Portsmouth,3,0,1,0,0,0,95100
+Virginia,Cities,Purcellville,0,1,0,0,0,0,9779
+Virginia,Cities,Richmond,2,0,0,0,0,0,226236
+Virginia,Cities,Suffolk,1,0,2,0,0,0,89922
+Virginia,Cities,Vienna,1,0,0,0,0,0,16590
+Virginia,Cities,Vinton,0,1,0,0,0,0,8207
+Virginia,Cities,Virginia Beach,5,1,0,1,0,0,454353
+Virginia,Universities and Colleges,,6,4,1,0,0,0,0
+Virginia,Universities and Colleges,George Mason University,3,0,0,0,0,0,34909
+Virginia,Universities and Colleges,Northern Virginia Community College,1,2,0,0,0,0,50835
+Virginia,Universities and Colleges,University of Mary Washington,0,2,1,0,0,0,4726
+Virginia,Universities and Colleges,Virginia Polytechnic Institute and State University,2,0,0,0,0,0,33170
+Virginia,Metropolitan Counties,,56,27,20,1,0,0,0
+Virginia,Metropolitan Counties,Albemarle County Police Department,2,0,0,0,0,0,0
+Virginia,Metropolitan Counties,Amelia,2,0,0,0,0,0,0
+Virginia,Metropolitan Counties,Arlington County Police Department,2,2,0,0,0,0,0
+Virginia,Metropolitan Counties,Bedford,0,0,0,1,0,0,0
+Virginia,Metropolitan Counties,Chesterfield County Police Department,6,1,2,0,0,0,0
+Virginia,Metropolitan Counties,Clarke,2,0,1,0,0,0,0
+Virginia,Metropolitan Counties,Fairfax County Police Department,17,11,8,0,0,0,0
+Virginia,Metropolitan Counties,Fauquier,3,0,0,0,0,0,0
+Virginia,Metropolitan Counties,Franklin,1,0,1,0,0,0,0
+Virginia,Metropolitan Counties,Frederick,2,0,0,0,0,0,0
+Virginia,Metropolitan Counties,Gloucester,1,1,0,0,0,0,0
+Virginia,Metropolitan Counties,Goochland,0,1,0,0,0,0,0
+Virginia,Metropolitan Counties,Henrico County Police Department,1,0,0,0,0,0,0
+Virginia,Metropolitan Counties,Loudoun,7,5,4,0,0,0,0
+Virginia,Metropolitan Counties,Prince George County Police Department,0,0,1,0,0,0,0
+Virginia,Metropolitan Counties,Prince William County Police Department,2,2,0,0,0,0,0
+Virginia,Metropolitan Counties,Rockingham,1,0,1,0,0,0,0
+Virginia,Metropolitan Counties,Spotsylvania,2,3,2,0,0,0,0
+Virginia,Metropolitan Counties,Stafford,4,1,0,0,0,0,0
+Virginia,Metropolitan Counties,York,1,0,0,0,0,0,0
+Virginia,Nonmetropolitan Counties,,4,1,1,0,0,0,0
+Virginia,Nonmetropolitan Counties,King and Queen,1,0,0,0,0,0,0
+Virginia,Nonmetropolitan Counties,Louisa,1,0,0,0,0,0,0
+Virginia,Nonmetropolitan Counties,Madison,0,1,0,0,0,0,0
+Virginia,Nonmetropolitan Counties,Page,2,0,0,0,0,0,0
+Virginia,Nonmetropolitan Counties,Westmoreland,0,0,1,0,0,0,0
+Virginia,State Police Agencies,,2,0,4,5,0,0,0
+Virginia,State Police Agencies,State Police:  ,,,,,,,0
+Virginia,State Police Agencies,Amherst County,0,0,0,3,0,0,0
+Virginia,State Police Agencies,Frederick County,0,0,1,0,0,0,0
+Virginia,State Police Agencies,Halifax County,0,0,0,1,0,0,0
+Virginia,State Police Agencies,Harrisonburg,0,0,1,0,0,0,0
+Virginia,State Police Agencies,Henrico County,0,0,1,0,0,0,0
+Virginia,State Police Agencies,Rockbridge County,1,0,0,0,0,0,0
+Virginia,State Police Agencies,Washington County,0,0,1,0,0,0,0
+Virginia,State Police Agencies,Westmoreland County,0,0,0,1,0,0,0
+Virginia,State Police Agencies,Winchester,1,0,0,0,0,0,0
+Washington,Total,,323,88,79,1,6,16,0
+Washington,Cities,,274,76,75,1,4,15,0
+Washington,Cities,Aberdeen,0,0,1,0,0,0,16243
+Washington,Cities,Arlington,1,0,0,0,0,0,19302
+Washington,Cities,Auburn,4,0,1,0,0,0,78718
+Washington,Cities,Battle Ground,1,0,0,0,0,0,20516
+Washington,Cities,Bellevue,11,4,0,0,0,1,143703
+Washington,Cities,Bellingham,9,0,1,0,1,0,88652
+Washington,Cities,Bremerton,0,0,1,0,0,0,41173
+Washington,Cities,Burien,3,0,0,0,0,0,51479
+Washington,Cities,Centralia,0,1,0,0,0,0,17048
+Washington,Cities,Darrington,1,0,0,0,0,0,1391
+Washington,Cities,Dupont,1,0,0,0,0,0,9721
+Washington,Cities,Edmonds,6,0,0,0,0,0,42197
+Washington,Cities,Ellensburg,0,1,0,0,0,0,20026
+Washington,Cities,Everett,5,0,1,0,0,0,110040
+Washington,Cities,Federal Way,0,1,0,0,0,0,98014
+Washington,Cities,Fife,2,0,0,0,0,0,10264
+Washington,Cities,Forks,1,0,0,0,0,0,3822
+Washington,Cities,Hoquiam,1,0,0,0,0,0,8386
+Washington,Cities,Issaquah,2,2,1,0,0,0,38592
+Washington,Cities,Kelso,1,0,0,0,0,0,12070
+Washington,Cities,Kent,13,2,0,0,0,0,128990
+Washington,Cities,Kirkland,4,1,0,0,0,0,88898
+Washington,Cities,Lacey,1,0,0,0,1,0,48597
+Washington,Cities,Lake Stevens,1,0,1,0,0,0,32288
+Washington,Cities,Lakewood,1,0,0,0,0,0,61080
+Washington,Cities,Lynnwood,1,0,0,0,0,0,38469
+Washington,Cities,Marysville,2,2,0,0,0,0,68950
+Washington,Cities,Mill Creek,0,0,1,0,0,1,20664
+Washington,Cities,Monroe,3,1,0,0,0,0,18596
+Washington,Cities,Mount Vernon,5,0,0,0,0,0,35085
+Washington,Cities,Mukilteo,0,1,0,0,0,0,21662
+Washington,Cities,Oak Harbor,1,0,0,0,0,0,23371
+Washington,Cities,Olympia,3,0,0,0,0,1,51923
+Washington,Cities,Orting,2,2,0,0,0,0,7863
+Washington,Cities,Pasco,1,0,0,0,0,0,72146
+Washington,Cities,Port Angeles,2,1,0,0,0,0,19964
+Washington,Cities,Pullman,1,0,0,0,0,0,33897
+Washington,Cities,Puyallup,1,0,0,0,0,0,41242
+Washington,Cities,Redmond2,1,2,2,0,0,0,63889
+Washington,Cities,Renton,3,3,0,0,0,0,102470
+Washington,Cities,Richland,5,0,0,0,0,0,56151
+Washington,Cities,Seattle,120,45,57,0,1,11,721365
+Washington,Cities,Shoreline,1,0,1,0,0,0,55703
+Washington,Cities,Spokane,22,2,3,0,1,0,217066
+Washington,Cities,Spokane Valley,9,3,2,0,0,0,97430
+Washington,Cities,Tacoma,7,1,0,0,0,0,213504
+Washington,Cities,Toppenish,1,0,0,0,0,0,8974
+Washington,Cities,Tukwila,5,0,1,0,0,1,20183
+Washington,Cities,Tumwater,1,0,0,0,0,0,22961
+Washington,Cities,Union Gap,0,1,0,0,0,0,6104
+Washington,Cities,Vancouver,1,0,0,0,0,0,176884
+Washington,Cities,Walla Walla,1,0,0,0,0,0,32189
+Washington,Cities,West Richland,0,0,0,1,0,0,14603
+Washington,Cities,Yakima,6,0,1,0,0,0,94375
+Washington,Universities and Colleges,,4,1,1,0,2,1,0
+Washington,Universities and Colleges,Eastern Washington University,0,0,0,0,1,1,12279
+Washington,Universities and Colleges,Evergreen State College,1,0,0,0,0,0,4089
+Washington,Universities and Colleges,University of Washington,3,0,0,0,1,0,45591
+Washington,Universities and Colleges,"Washington State University, Pullman",0,0,1,0,0,0,30142
+Washington,Universities and Colleges,Western Washington University,0,1,0,0,0,0,15574
+Washington,Metropolitan Counties,,41,9,3,0,0,0,0
+Washington,Metropolitan Counties,Cowlitz,1,0,0,0,0,0,0
+Washington,Metropolitan Counties,King,4,0,0,0,0,0,0
+Washington,Metropolitan Counties,Pierce,6,1,1,0,0,0,0
+Washington,Metropolitan Counties,Skagit,1,2,0,0,0,0,0
+Washington,Metropolitan Counties,Skamania,1,0,0,0,0,0,0
+Washington,Metropolitan Counties,Snohomish,6,2,1,0,0,0,0
+Washington,Metropolitan Counties,Spokane,8,3,0,0,0,0,0
+Washington,Metropolitan Counties,Thurston,2,0,0,0,0,0,0
+Washington,Metropolitan Counties,Whatcom2,5,1,1,0,0,0,0
+Washington,Metropolitan Counties,Yakima,7,0,0,0,0,0,0
+Washington,Nonmetropolitan Counties,,1,0,0,0,0,0,0
+Washington,Nonmetropolitan Counties,Clallam,1,0,0,0,0,0,0
+Washington,Tribal Agencies,,1,0,0,0,0,0,0
+Washington,Tribal Agencies,Lummi Tribal,1,0,0,0,0,0,0
+Washington,Other Agencies,,2,2,0,0,0,0,0
+Washington,Other Agencies,Port of Seattle,2,2,0,0,0,0,0
+West Virginia,Total,,23,6,1,1,0,0,0
+West Virginia,Cities,,10,4,1,0,0,0,0
+West Virginia,Cities,Barboursville,0,1,0,0,0,0,4315
+West Virginia,Cities,Bridgeport,1,0,0,0,0,0,8401
+West Virginia,Cities,Buckhannon,1,0,0,0,0,0,5610
+West Virginia,Cities,Charleston,3,0,1,0,0,0,48788
+West Virginia,Cities,Fairmont,1,0,0,0,0,0,18604
+West Virginia,Cities,Huntington,0,1,0,0,0,0,47933
+West Virginia,Cities,Martinsburg,0,1,0,0,0,0,17761
+West Virginia,Cities,Oak Hill,3,0,0,0,0,0,8490
+West Virginia,Cities,Parkersburg,1,0,0,0,0,0,30475
+West Virginia,Cities,White Sulphur Springs,0,1,0,0,0,0,2417
+West Virginia,Universities and Colleges,,2,1,0,0,0,0,0
+West Virginia,Universities and Colleges,Shepherd University,2,1,0,0,0,0,3779
+West Virginia,Metropolitan Counties,,6,0,0,0,0,0,0
+West Virginia,Metropolitan Counties,Berkeley,3,0,0,0,0,0,0
+West Virginia,Metropolitan Counties,Brooke,1,0,0,0,0,0,0
+West Virginia,Metropolitan Counties,Fayette,1,0,0,0,0,0,0
+West Virginia,Metropolitan Counties,Jefferson,1,0,0,0,0,0,0
+West Virginia,Nonmetropolitan Counties,,5,1,0,1,0,0,0
+West Virginia,Nonmetropolitan Counties,Braxton,1,0,0,0,0,0,0
+West Virginia,Nonmetropolitan Counties,Harrison,0,1,0,0,0,0,0
+West Virginia,Nonmetropolitan Counties,Lewis,1,0,0,1,0,0,0
+West Virginia,Nonmetropolitan Counties,Mason,1,0,0,0,0,0,0
+West Virginia,Nonmetropolitan Counties,McDowell,2,0,0,0,0,0,0
+Wisconsin,Total,,15,17,13,1,0,0,0
+Wisconsin,Cities,,14,12,11,1,0,0,0
+Wisconsin,Cities,Appleton,1,3,0,0,0,0,74660
+Wisconsin,Cities,Beloit,0,2,0,0,0,0,36724
+Wisconsin,Cities,Eau Claire,1,0,0,0,0,0,68687
+Wisconsin,Cities,Fond du Lac,0,1,0,0,0,0,42929
+Wisconsin,Cities,Hudson,1,3,8,0,0,0,13788
+Wisconsin,Cities,Juneau,0,0,0,1,0,0,2703
+Wisconsin,Cities,Kaukauna,0,0,1,0,0,0,15969
+Wisconsin,Cities,La Crosse,1,0,0,0,0,0,52234
+Wisconsin,Cities,Madison,0,1,1,0,0,0,255850
+Wisconsin,Cities,Manitowoc,1,0,0,0,0,0,32813
+Wisconsin,Cities,Milwaukee,4,1,0,0,0,0,595168
+Wisconsin,Cities,North Fond du Lac,1,0,0,0,0,0,5038
+Wisconsin,Cities,Seymour,1,0,0,0,0,0,3441
+Wisconsin,Cities,Sheboygan,1,0,0,0,0,0,48595
+Wisconsin,Cities,South Milwaukee,1,0,0,0,0,0,21039
+Wisconsin,Cities,Tomahawk,0,1,0,0,0,0,3169
+Wisconsin,Cities,West Allis,1,0,0,0,0,0,60043
+Wisconsin,Cities,Wisconsin Rapids,0,0,1,0,0,0,17807
+Wisconsin,Metropolitan Counties,,0,4,1,0,0,0,0
+Wisconsin,Metropolitan Counties,Calumet,0,1,0,0,0,0,0
+Wisconsin,Metropolitan Counties,Columbia,0,1,0,0,0,0,0
+Wisconsin,Metropolitan Counties,Rock,0,0,1,0,0,0,0
+Wisconsin,Metropolitan Counties,St. Croix,0,2,0,0,0,0,0
+Wisconsin,Nonmetropolitan Counties,,0,1,0,0,0,0,0
+Wisconsin,Nonmetropolitan Counties,Burnett,0,1,0,0,0,0,0
+Wisconsin,Tribal Agencies,,1,0,1,0,0,0,0
+Wisconsin,Tribal Agencies,Lac Courtes Oreilles Tribal,1,0,1,0,0,0,0
+Wyoming,Total,,1,1,2,0,0,0,0
+Wyoming,Cities,,0,1,2,0,0,0,0
+Wyoming,Cities,Laramie,0,1,1,0,0,0,32632
+Wyoming,Cities,Sheridan,0,0,1,0,0,0,18036
+Wyoming,Universities and Colleges,,1,0,0,0,0,0,0
+Wyoming,Universities and Colleges,University of Wyoming,1,0,0,0,0,0,12366

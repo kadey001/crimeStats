@@ -1,0 +1,26 @@
+<template>
+	<div class="city-stats">
+		<div>
+			<h1>2017 Hate Crime City Stats</h1>
+			<select name="cities" id="city-dropdown" v-model="cityName">
+				<option disabled value="">Select a city</option>
+				<option v-for="(option, i) in cities" :value="option.agencyName">
+					{{ option.agencyName }}
+				</option>
+			</select>
+			<button @click="getCityData(cityName)">Select</button>
+		</div>
+		<div>
+			<h3>{{ 'City: ' + city.agencyName }}</h3>
+			<h3>{{ 'State: ' + city.state }}</h3>
+			<h3>{{ 'Disability crimes: ' + city.disability }}</h3>
+			<h3>{{ 'Gender crimes: ' + city.gender }}</h3>
+			<h3>{{ 'Gender identity crimes: ' + city.genderIdentity }}</h3>
+			<h3>{{ 'Sexual orientation crimes: ' + city.sexOrientation }}</h3>
+			<h3>{{ 'Race crimes: ' + city.race }}</h3>
+			<h3>{{ 'Religion crimes: ' + city.religion }}</h3>
+			<h3>{{ 'Total Crimes: ' + totalCrimes() }}</h3>
+			<h3>{{ rankedStates }}</h3>
+		</div>
+	</div>
+</template>
